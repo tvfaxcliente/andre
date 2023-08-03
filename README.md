@@ -2855,6 +2855,10 @@ https://ia902700.us.archive.org/0/items/mazzaropi-um-caipira-em-bariloche-tv-fax
 https://ia902700.us.archive.org/21/items/mazzaropi-o-vendedor-de-linguica-tv-fax/Mazzaropi%20-%20O%20Vendedor%20de%20Lingui%C3%A7a%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mazzaropi No Paraíso Das Solteironas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHuCBSFpNurPTYXJ78TUP9jbgf1HOiGbVzCw&usqp=CAU" group-title="Filme Mazzaropi",Mazzaropi No Paraíso Das Solteironas
 https://ia902706.us.archive.org/24/items/mazzaropi-no-paraiso-das-solteironas-tv-fax/Mazzaropi%20-%20No%20Para%C3%ADso%20das%20Solteironas%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi Casinha Pequenina" tvg-logo="https://thumbs.gfycat.com/LikableSaneHarvestmouse-size_restricted.gif" group-title="Filme Mazzaropi",Mazzaropi Casinha Pequenina
+https://ia802709.us.archive.org/3/items/mazzaropi-casinha-pequenina-tv-fax/Mazzaropi%20-%20Casinha%20Pequenina%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi Meu Japão Brasileiro" tvg-logo="https://thumbs.gfycat.com/LikableSaneHarvestmouse-size_restricted.gif" group-title="Filme Mazzaropi",Mazzaropi Meu Japão Brasileiro
+https://ia802708.us.archive.org/35/items/mazzaropi-meu-japao-brasileiro-tv-fax/Mazzaropi%20-%20Meu%20Jap%C3%A3o%20Brasileiro%20TV%20FAX%20.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES TV FAX filhos.xml"
 ############## FILMES TV FAX filhos  #################
@@ -6448,23 +6452,23 @@ https://ia802709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1
 ############## SÉRIES | Tulsa King ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Tulsa King" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E01" tvg-logo="https://64.media.tumblr.com/7aff7ff2b41c5d1af12236b9a5df096b/9c4e4f8c6daaa0f1-e2/s540x810/73492ab8ddac3efba1ad94f0dbae3b4429b1b37c.gif" group-title="SÉRIES | Tulsa King",Tulsa King S01 E01 
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/267368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E02" tvg-logo="https://thumbs.gfycat.com/EnchantingMeanAuk-size_restricted.gif" group-title="SÉRIES | Tulsa King",Tulsa King S01 E02
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/267369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E03" tvg-logo="https://media.tenor.com/L_btfbmeXE8AAAAM/i-got-an-idea-dwight-manfredi.gif" group-title="SÉRIES | Tulsa King",Tulsa King S01 E03
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/269631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E04" tvg-logo="https://media.tenor.com/Pdwc-iZ0yvEAAAAC/are-you-kidding-me-dwight-manfredi.gif" group-title="SÉRIES | Tulsa King",Tulsa King S01 E04
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/269632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E05" tvg-logo="https://media.tenor.com/Yqqwo_pQsdcAAAAC/my-apologies-dwight-manfredi.gif" group-title="SÉRIES | Tulsa King",Tulsa King S01 E05
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E06" tvg-logo="https://media.tenor.com/QNxIf3njR74AAAAd/you-think-so-dwight-manfredi.gif" group-title="SÉRIES | Tulsa King",Tulsa King S01 E06
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E07" tvg-logo="https://media.tenor.com/P5fdFfzoPdYAAAAC/its-true-dwight-the-general-manfredi.gif" group-title="SÉRIES | Tulsa King",Tulsa King S01 E07
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E08" tvg-logo="https://media.tenor.com/nGUeXC1Gjd4AAAAC/why-not-dwight-manfredi.gif" group-title="SÉRIES | Tulsa King",Tulsa King S01 E08
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E09
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E09" tvg-logo="https://media.tenor.com/87N4iK42scoAAAAC/maybe-its-none-of-your-business-dwight-manfredi.gif" group-title="SÉRIES | Tulsa King",Tulsa King S01 E09
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273158.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES  O Incrível Hulk.xml"
@@ -6614,23 +6618,23 @@ http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183820.mp4
 ############## SÉRIES | Mulher Hulk ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Mulher Hulk" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk:Uma Quantidade Normal De Raiva S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: Uma Quantidade Normal De Raiva S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk:Uma Quantidade Normal De Raiva S01 E01" tvg-logo="https://cdn2.storyasset.link/307b4648-19c4-4b93-bb44-34dd4ec9af14/she-hulk-scream-she-hulk-out-ms-pwoohrqvou.gif" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: Uma Quantidade Normal De Raiva S01 E01
 https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x1%20Uma%20Quantidade%20Normal%20de%20Raiva.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: DIREITO SUPER HUMANO S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUzg" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: DIREITO SUPER HUMANO S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: DIREITO SUPER HUMANO S01 E02" tvg-logo="https://media.tenor.com/-vlVc_vDE9sAAAAM/she-hulk-dance-she-hulk-punch.gif" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: DIREITO SUPER HUMANO S01 E02
 https://ia802707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x1%20Uma%20Quantidade%20Normal%20de%20Raiva.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: O POVO CONTRA EMILBLONSKY S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: O POVO CONTRA EMILBLONSKY S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: O POVO CONTRA EMILBLONSKY S01 E03" tvg-logo="https://media.tenor.com/GoDAnbf0zMUAAAAM/she-hulk-im-shown-she-hulk-roast.gif" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: O POVO CONTRA EMILBLONSKY S01 E03
 https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x3%20O%20Povo%20Contra%20Emil%20Blonsky.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: NAO E UMA MAGIA DE VERDADE S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: NAO E UMA MAGIA DE VERDADE S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: NAO E UMA MAGIA DE VERDADE S01 E04" tvg-logo="https://c.tenor.com/tkIIuzZQU7cAAAAC/amazed-tatiana-maslany.gif" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: NAO E UMA MAGIA DE VERDADE S01 E04
 https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x4%20N%C3%A3o%20%C3%A9%20Magia%20de%20Verdade.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: MALVADINHA VERDINHA E DE CALCA APERTADA S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: MALVADINHA VERDINHA E DE CALCA APERTADA S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: MALVADINHA VERDINHA E DE CALCA APERTADA S01 E05" tvg-logo="https://www.omelete.com.br/webstories/todo-mundo-she-hulk/assets/3.gif" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: MALVADINHA VERDINHA E DE CALCA APERTADA S01 E05
 https://ia802707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x5%20Malvadinha%2C%20Verdinha%20e%20de%20Cal%C3%A7a%20Apertadinha.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: APENAS JEN S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: APENAS JEN  S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: APENAS JEN S01 E06" tvg-logo="https://media.tenor.com/-IOlTYI4E4QAAAAC/she-hulk.gif" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: APENAS JEN  S01 E06
 https://ia802707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x6%20Apenas%20Jen.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: RETIRO S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: RETIRO S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: RETIRO S01 E07" tvg-logo="https://64.media.tumblr.com/c2a99f629fb57d0470839c85cfcd3eeb/5de89928b397dc13-9f/s540x810/8c1168933b48701365d093e98d9f2ac57f81b32a.gif" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: RETIRO S01 E07
 https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x7%20O%20Retiro.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: COAXANDO E SALTANDO S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: COAXANDO E SALTANDO S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: COAXANDO E SALTANDO S01 E08" tvg-logo="https://media.tenor.com/KkY9AW_cqpkAAAAM/hello-jennifer-walters.gif" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: COAXANDO E SALTANDO S01 E08
 https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x8%20Coaxando%20e%20Saltando.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09" tvg-logo="https://media.tenor.com/8mAYzViLlLIAAAAC/she-hulk-throwing.gif" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09
 https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x9%20De%20Quem%20%C3%89%20Essa%20S%C3%A9rie.mp4
 
 #EXTM3U url-tvg="http://grade-de-Pantera Cor de Rosa.xml"
@@ -10652,277 +10656,277 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/241554.mp4
 #EXTINF:-1 tvg-id="" tvg-name="D.P.A. - Detetives do Prédio Azul S15 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFSk11LZT4byMJp7gKomWGvvUV2.jpg" group-title="SÉRIES | Animação",D.P.A. - Detetives do Prédio Azul S15 E26
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/241555.mp4
 
-#EXTM3U url-tvg="http://grade-de-Xena: A Princesa Guerreira.xml"
-############## Xena: A Princesa Guerreira ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeXena: A Princesa Guerreira" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Xena.xml"
+############## SÉRIES | Xena ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Xena" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8ZYxWnwlzuKKHseDzYMdsSWrZKe.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/8ZYxWnwlzuKKHseDzYMdsSWrZKe.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/7eG0dswkLS8nOgwHB86GHZtM91Q.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/7eG0dswkLS8nOgwHB86GHZtM91Q.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E02
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/bG2gtscoRtOxJR0Rnfb8l17nOWh.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/bG2gtscoRtOxJR0Rnfb8l17nOWh.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E03
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86446.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/wTlz0Ev8WjyEiIpK3JVC2zYSSF2.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/wTlz0Ev8WjyEiIpK3JVC2zYSSF2.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E04
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/6J3pT4KCD3ytGwggiOWwJA4YQJd.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/6J3pT4KCD3ytGwggiOWwJA4YQJd.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E05
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/AdTIM8tcQ3JZ3Iq5MxCGilbMeg6.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/AdTIM8tcQ3JZ3Iq5MxCGilbMeg6.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E06
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/rdpOw7BvP1LFW3cTMsnMhO3q5tG.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/rdpOw7BvP1LFW3cTMsnMhO3q5tG.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E07
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/leqQ6umcaGI7NeywsiHGWlK6QCV.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/leqQ6umcaGI7NeywsiHGWlK6QCV.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E08
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/mQYGUBSXnnHb7PPtzI8Zt1PxNt0.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E09
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/mQYGUBSXnnHb7PPtzI8Zt1PxNt0.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E09
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/Afixy1YKsLKkSMAGJycuNPMWuce.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E10
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/Afixy1YKsLKkSMAGJycuNPMWuce.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E10
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/3Coyc9tBpo7WGUcyhH3qv3XprdT.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E11
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/3Coyc9tBpo7WGUcyhH3qv3XprdT.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E11
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/t0k4fYEbyTLH8ZNhmDd6SYCO6zu.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E12
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/t0k4fYEbyTLH8ZNhmDd6SYCO6zu.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E12
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/yV9M4oaCTmiw0LMfUju3XpG913e.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E13
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/yV9M4oaCTmiw0LMfUju3XpG913e.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E13
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86456.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/qtsPMUhEvFGmZ0yDDcc27xJHK2m.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E14
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/qtsPMUhEvFGmZ0yDDcc27xJHK2m.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E14
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300/q3I0X7iWG9fyJX98TYbrBA72DpP.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E15
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300/q3I0X7iWG9fyJX98TYbrBA72DpP.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E15
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86458.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300/34aULgarlUeulZnlbECtXxo0oWX.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E16
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300/34aULgarlUeulZnlbECtXxo0oWX.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E16
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86459.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E17" tvg-logo="https://image.tmdb.org/t/p/w300/cYkynuFBBxyC38aBkAF1idsyVse.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E17
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E17" tvg-logo="https://image.tmdb.org/t/p/w300/cYkynuFBBxyC38aBkAF1idsyVse.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E17
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86460.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300/X49dAbYZjmyh28T7NvW52qgQty.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E18
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300/X49dAbYZjmyh28T7NvW52qgQty.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E18
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E19" tvg-logo="https://image.tmdb.org/t/p/w300/bgLUtA6RxG9VDHexfBOv1FzsMTZ.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E19
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E19" tvg-logo="https://image.tmdb.org/t/p/w300/bgLUtA6RxG9VDHexfBOv1FzsMTZ.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E19
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300/7xlGMt2RqXAEZ60K8Wx4OYFmv1S.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E20
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300/7xlGMt2RqXAEZ60K8Wx4OYFmv1S.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E20
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E21" tvg-logo="https://image.tmdb.org/t/p/w300/3kYsJGurSKiDTWnGLQMNjXgLdVu.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E21
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E21" tvg-logo="https://image.tmdb.org/t/p/w300/3kYsJGurSKiDTWnGLQMNjXgLdVu.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E21
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E22" tvg-logo="https://image.tmdb.org/t/p/w300/iYjv86jMiwBnA56UC8JrWTgwpkN.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E22
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E22" tvg-logo="https://image.tmdb.org/t/p/w300/iYjv86jMiwBnA56UC8JrWTgwpkN.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E22
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E23" tvg-logo="https://image.tmdb.org/t/p/w300/o9masovWRoX8y4gnlxz7nkPZWrf.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E23
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E23" tvg-logo="https://image.tmdb.org/t/p/w300/o9masovWRoX8y4gnlxz7nkPZWrf.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E23
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E24" tvg-logo="https://image.tmdb.org/t/p/w300/nhhh8FMixp0d9NgIcaGXOGm1bY2.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S01 E24
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S01 E24" tvg-logo="https://image.tmdb.org/t/p/w300/nhhh8FMixp0d9NgIcaGXOGm1bY2.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S01 E24
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/ie3K9Jku8DmOlk98u2wCgxEpD5t.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E01
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/ie3K9Jku8DmOlk98u2wCgxEpD5t.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ywTmFF5L1oQnHtftKup3ZsAPD9T.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E02
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/ywTmFF5L1oQnHtftKup3ZsAPD9T.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E02
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/2o6EkmwgN6vEKqxfA7QJiueAnwM.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E03
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/2o6EkmwgN6vEKqxfA7QJiueAnwM.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E03
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/lAf8dFavpgquyfkZ4VMUzwpDOrw.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E04
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/lAf8dFavpgquyfkZ4VMUzwpDOrw.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E04
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3otvCFEZHzkuvMN1WIfudNohZWX.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E05
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3otvCFEZHzkuvMN1WIfudNohZWX.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E05
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/vpR5lfhvkAHIprCblAg35VPFOyk.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E06
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/vpR5lfhvkAHIprCblAg35VPFOyk.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E06
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/1RimQEcDWDTmd9IClxAQwvTzKYi.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E07
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/1RimQEcDWDTmd9IClxAQwvTzKYi.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E07
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/hiTilsFUIA9k8BA70syfLY6P4UV.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E08
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/hiTilsFUIA9k8BA70syfLY6P4UV.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E08
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/1F5GuqCEh4a5yMf6JVnkmhhu9My.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E09
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/1F5GuqCEh4a5yMf6JVnkmhhu9My.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E09
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/aVSVTYcUW1qjUGfiYuxFhXkTA0.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E10
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/aVSVTYcUW1qjUGfiYuxFhXkTA0.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E10
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/65LhjCdMrZtXKsfneHOjUQ03leB.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E11
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/65LhjCdMrZtXKsfneHOjUQ03leB.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E11
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/w73uvcB6ojYLb8GUibw15bmuFZj.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E12
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/w73uvcB6ojYLb8GUibw15bmuFZj.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E12
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/5Ny8i04d8T8wOtO45vKtfRlSDEA.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E13
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/5Ny8i04d8T8wOtO45vKtfRlSDEA.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E13
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E14" tvg-logo="https://image.tmdb.org/t/p/w300/raryrBRpzqcQlfVSYIVjksNUCml.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E14
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E14" tvg-logo="https://image.tmdb.org/t/p/w300/raryrBRpzqcQlfVSYIVjksNUCml.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E14
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E15" tvg-logo="https://image.tmdb.org/t/p/w300/9hov1XtP7GEqujCXZJsM4L2gdwr.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E15
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E15" tvg-logo="https://image.tmdb.org/t/p/w300/9hov1XtP7GEqujCXZJsM4L2gdwr.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E15
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E16" tvg-logo="https://image.tmdb.org/t/p/w300/h8E5SK99pZLzcmmv1dIAxVkBtHF.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E16
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E16" tvg-logo="https://image.tmdb.org/t/p/w300/h8E5SK99pZLzcmmv1dIAxVkBtHF.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E16
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E17" tvg-logo="https://image.tmdb.org/t/p/w300/6G5pb9NdpDn2QQJkg2nOpw6e9dZ.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E17
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E17" tvg-logo="https://image.tmdb.org/t/p/w300/6G5pb9NdpDn2QQJkg2nOpw6e9dZ.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E17
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E18" tvg-logo="https://image.tmdb.org/t/p/w300/nGCtmyqjm2CS7jBbB2fmMsJX6rH.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E18
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E18" tvg-logo="https://image.tmdb.org/t/p/w300/nGCtmyqjm2CS7jBbB2fmMsJX6rH.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E18
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E19" tvg-logo="https://image.tmdb.org/t/p/w300/itKPo5rs8vVKs0ptBr3HhFoD0ej.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E19
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E19" tvg-logo="https://image.tmdb.org/t/p/w300/itKPo5rs8vVKs0ptBr3HhFoD0ej.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E19
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E20" tvg-logo="https://image.tmdb.org/t/p/w300/ewTteSXn2fBHdCYjDShiK969sxD.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E20
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E20" tvg-logo="https://image.tmdb.org/t/p/w300/ewTteSXn2fBHdCYjDShiK969sxD.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E20
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E21" tvg-logo="https://image.tmdb.org/t/p/w300/99QDHCRVuh4qI81G9bPxyBoddKL.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E21
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E21" tvg-logo="https://image.tmdb.org/t/p/w300/99QDHCRVuh4qI81G9bPxyBoddKL.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E21
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E22" tvg-logo="https://image.tmdb.org/t/p/w300/vHW2zGdTLOPyvc6Lp8YLFHFLbfZ.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S02 E22
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S02 E22" tvg-logo="https://image.tmdb.org/t/p/w300/vHW2zGdTLOPyvc6Lp8YLFHFLbfZ.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S02 E22
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/c2ojNqmn2lOkTPaZfooDt6UF9A2.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E01
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/c2ojNqmn2lOkTPaZfooDt6UF9A2.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/eZr1RMaJeBI4YRi1muPvJFugk8J.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E02
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/eZr1RMaJeBI4YRi1muPvJFugk8J.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E02
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/8bLTQRdNMk33pyJCJB8lxrdAQK2.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E03
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/8bLTQRdNMk33pyJCJB8lxrdAQK2.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E03
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/rQj25nh56GqiMrInrPIqJAw4XaA.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E04
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/rQj25nh56GqiMrInrPIqJAw4XaA.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E04
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ntHZDSagnyqPSrOULdOPDNf4MtB.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E05
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ntHZDSagnyqPSrOULdOPDNf4MtB.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E05
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/ftxzD9TjPQrZwEhle2JgWrs461q.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E06
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/ftxzD9TjPQrZwEhle2JgWrs461q.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E06
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/tXQ4FdJgMHvLp0o6MXnUAfWh8g2.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E07
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/tXQ4FdJgMHvLp0o6MXnUAfWh8g2.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E07
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/vt7X4w5EqxtWP3DKZ3DyWmRzjT3.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E08
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/vt7X4w5EqxtWP3DKZ3DyWmRzjT3.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E08
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E09" tvg-logo="https://image.tmdb.org/t/p/w300/am4NKd1TKkmji2QEZgn16tMMsOv.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E09
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E09" tvg-logo="https://image.tmdb.org/t/p/w300/am4NKd1TKkmji2QEZgn16tMMsOv.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E09
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/p4OdZi5O7nkZLmZwGG1SDJSW06S.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E10
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/p4OdZi5O7nkZLmZwGG1SDJSW06S.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E10
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E11" tvg-logo="https://image.tmdb.org/t/p/w300/gUg1QnVR2gHE3MyjoYm4CkuQBYs.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E11
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E11" tvg-logo="https://image.tmdb.org/t/p/w300/gUg1QnVR2gHE3MyjoYm4CkuQBYs.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E11
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E12" tvg-logo="https://image.tmdb.org/t/p/w300/jA9n1MQGVueeEF0vNu2HH4oalRN.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E12
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E12" tvg-logo="https://image.tmdb.org/t/p/w300/jA9n1MQGVueeEF0vNu2HH4oalRN.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E12
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E13" tvg-logo="https://image.tmdb.org/t/p/w300/heqjo9LgUoMtSSOCY7b9x1BXoTq.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E13
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E13" tvg-logo="https://image.tmdb.org/t/p/w300/heqjo9LgUoMtSSOCY7b9x1BXoTq.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E13
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E14" tvg-logo="https://image.tmdb.org/t/p/w300/mgS3T5TkKCw847eSREKkL8C7lFn.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E14
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E14" tvg-logo="https://image.tmdb.org/t/p/w300/mgS3T5TkKCw847eSREKkL8C7lFn.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E14
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E15" tvg-logo="https://image.tmdb.org/t/p/w300/2PBwVlqlWWS2OcxfLwnkQgDnFTF.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E15
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E15" tvg-logo="https://image.tmdb.org/t/p/w300/2PBwVlqlWWS2OcxfLwnkQgDnFTF.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E15
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E16" tvg-logo="https://image.tmdb.org/t/p/w300/7LcexsJj24EdlktwCG2iIT9gydm.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E16
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E16" tvg-logo="https://image.tmdb.org/t/p/w300/7LcexsJj24EdlktwCG2iIT9gydm.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E16
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E17" tvg-logo="https://image.tmdb.org/t/p/w300/9UhE6JhMzn8VVyecz5BXewbI4eu.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E17
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E17" tvg-logo="https://image.tmdb.org/t/p/w300/9UhE6JhMzn8VVyecz5BXewbI4eu.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E17
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E18" tvg-logo="https://image.tmdb.org/t/p/w300/Ar36T8gpFp8ASGADesmd9KYtI0a.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E18
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E18" tvg-logo="https://image.tmdb.org/t/p/w300/Ar36T8gpFp8ASGADesmd9KYtI0a.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E18
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E19" tvg-logo="https://image.tmdb.org/t/p/w300/lpQg4Eh1sLiQR5d4f8uxGjd4Kai.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E19
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E19" tvg-logo="https://image.tmdb.org/t/p/w300/lpQg4Eh1sLiQR5d4f8uxGjd4Kai.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E19
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E20" tvg-logo="https://image.tmdb.org/t/p/w300/8uZWJ1ikEulNcoxdHZkumjRzSaK.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E20
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E20" tvg-logo="https://image.tmdb.org/t/p/w300/8uZWJ1ikEulNcoxdHZkumjRzSaK.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E20
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E21" tvg-logo="https://image.tmdb.org/t/p/w300/saIiI9cA9Mb3BIK6W73fygVzBB4.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E21
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E21" tvg-logo="https://image.tmdb.org/t/p/w300/saIiI9cA9Mb3BIK6W73fygVzBB4.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E21
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E22" tvg-logo="https://image.tmdb.org/t/p/w300/qpFFXypgvFoluA62lnEROgaibwb.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S03 E22
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S03 E22" tvg-logo="https://image.tmdb.org/t/p/w300/qpFFXypgvFoluA62lnEROgaibwb.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S03 E22
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/kG09CLQw7okMrlU0Wu9wbZl1NLx.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E01
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/kG09CLQw7okMrlU0Wu9wbZl1NLx.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/dUmQiaLPBgsxhn4X6b0MbJOprSg.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E02
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/dUmQiaLPBgsxhn4X6b0MbJOprSg.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E02
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/o0c73ywxCb4oqd6Cpm5YJNGaRsl.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E03
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/o0c73ywxCb4oqd6Cpm5YJNGaRsl.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E03
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/di9JDZVGX2e1Q2wQiz86QNJsErI.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E04
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/di9JDZVGX2e1Q2wQiz86QNJsErI.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E04
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/h58shgrkP4fbAR9J1WgVsf8SL8j.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E05
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/h58shgrkP4fbAR9J1WgVsf8SL8j.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E05
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86516.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/yeW3bteAZidnVaCJt6F319dwCd3.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E06
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/yeW3bteAZidnVaCJt6F319dwCd3.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E06
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/tAjanTma4IE5lbI9FKn8oeAcb14.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E07
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/tAjanTma4IE5lbI9FKn8oeAcb14.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E07
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E08" tvg-logo="https://image.tmdb.org/t/p/w300/nu5paP2f4eE1UWdyfPzesacmTtP.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E08
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E08" tvg-logo="https://image.tmdb.org/t/p/w300/nu5paP2f4eE1UWdyfPzesacmTtP.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E08
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E09" tvg-logo="https://image.tmdb.org/t/p/w300/gK6lDbAo43Fi4TWK2Bb2iQNTjOZ.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E09
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E09" tvg-logo="https://image.tmdb.org/t/p/w300/gK6lDbAo43Fi4TWK2Bb2iQNTjOZ.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E09
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E10" tvg-logo="https://image.tmdb.org/t/p/w300/zSz582qVLjnQ1vXDZOFvZegIK1R.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E10
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E10" tvg-logo="https://image.tmdb.org/t/p/w300/zSz582qVLjnQ1vXDZOFvZegIK1R.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E10
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E11" tvg-logo="https://image.tmdb.org/t/p/w300/w8Vi1QHUEEg4bbDqGI0S8UWF2QG.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E11
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E11" tvg-logo="https://image.tmdb.org/t/p/w300/w8Vi1QHUEEg4bbDqGI0S8UWF2QG.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E11
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E12" tvg-logo="https://image.tmdb.org/t/p/w300/yFjcYXa1qBM7ajyNncFF6l7PRv4.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E12
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E12" tvg-logo="https://image.tmdb.org/t/p/w300/yFjcYXa1qBM7ajyNncFF6l7PRv4.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E12
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E13" tvg-logo="https://image.tmdb.org/t/p/w300/cH52V61Z2SLt97rlBLeCicyUK0M.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E13
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E13" tvg-logo="https://image.tmdb.org/t/p/w300/cH52V61Z2SLt97rlBLeCicyUK0M.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E13
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E14" tvg-logo="https://image.tmdb.org/t/p/w300/iRXrWJ8d8YoaUe9nlw1gxzsXZxZ.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E14
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E14" tvg-logo="https://image.tmdb.org/t/p/w300/iRXrWJ8d8YoaUe9nlw1gxzsXZxZ.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E14
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E15" tvg-logo="https://image.tmdb.org/t/p/w300/uFSYQX9lelXcfzba2pbIOfAKXIQ.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E15
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E15" tvg-logo="https://image.tmdb.org/t/p/w300/uFSYQX9lelXcfzba2pbIOfAKXIQ.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E15
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E16" tvg-logo="https://image.tmdb.org/t/p/w300/gJHzPjdwKbpMWu2hHfTAvq0HC3q.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E16
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E16" tvg-logo="https://image.tmdb.org/t/p/w300/gJHzPjdwKbpMWu2hHfTAvq0HC3q.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E16
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E17" tvg-logo="https://image.tmdb.org/t/p/w300/5aglSUOWYgYIdqdUVuTK7ZPlBg5.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E17
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E17" tvg-logo="https://image.tmdb.org/t/p/w300/5aglSUOWYgYIdqdUVuTK7ZPlBg5.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E17
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E18" tvg-logo="https://image.tmdb.org/t/p/w300/fgGIHPpfuPqh1qFF7DeRW2Ikd00.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E18
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E18" tvg-logo="https://image.tmdb.org/t/p/w300/fgGIHPpfuPqh1qFF7DeRW2Ikd00.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E18
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E19" tvg-logo="https://image.tmdb.org/t/p/w300/j3c5773OcewIbCOAJHPXtOReiCU.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E19
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E19" tvg-logo="https://image.tmdb.org/t/p/w300/j3c5773OcewIbCOAJHPXtOReiCU.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E19
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E20" tvg-logo="https://image.tmdb.org/t/p/w300/vZPUEEnD6ChzTb9rppFO0CyFQTF.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E20
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E20" tvg-logo="https://image.tmdb.org/t/p/w300/vZPUEEnD6ChzTb9rppFO0CyFQTF.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E20
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E21" tvg-logo="https://image.tmdb.org/t/p/w300/5dkqLOfs0Z9LUVtvWUjFbDfiHsO.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E21
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E21" tvg-logo="https://image.tmdb.org/t/p/w300/5dkqLOfs0Z9LUVtvWUjFbDfiHsO.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E21
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E22" tvg-logo="https://image.tmdb.org/t/p/w300/9JBv6OLs0ikybWqRzGc2sqlnGCt.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S04 E22
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S04 E22" tvg-logo="https://image.tmdb.org/t/p/w300/9JBv6OLs0ikybWqRzGc2sqlnGCt.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S04 E22
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E01" tvg-logo="https://image.tmdb.org/t/p/w300/qT34wurmLqCQUM13lWli5PZPjoA.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E01
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E01" tvg-logo="https://image.tmdb.org/t/p/w300/qT34wurmLqCQUM13lWli5PZPjoA.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86534.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E02" tvg-logo="https://image.tmdb.org/t/p/w300/9F5tXoW9wgHQhasWrwkfCjqNwPf.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E02
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E02" tvg-logo="https://image.tmdb.org/t/p/w300/9F5tXoW9wgHQhasWrwkfCjqNwPf.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E02
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E03" tvg-logo="https://image.tmdb.org/t/p/w300/yifn8m4pO68PTHE72RRxDnY4BqB.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E03
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E03" tvg-logo="https://image.tmdb.org/t/p/w300/yifn8m4pO68PTHE72RRxDnY4BqB.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E03
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86536.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ebocBTUvdBkQjSGIIiWDyEK0zXN.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E04
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E04" tvg-logo="https://image.tmdb.org/t/p/w300/ebocBTUvdBkQjSGIIiWDyEK0zXN.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E04
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E05" tvg-logo="https://image.tmdb.org/t/p/w300/428Qj6tvSBB3r4GNX0ZuFEi6soB.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E05
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E05" tvg-logo="https://image.tmdb.org/t/p/w300/428Qj6tvSBB3r4GNX0ZuFEi6soB.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E05
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E06" tvg-logo="https://image.tmdb.org/t/p/w300/ad4ibqbEsUl4WsyyjJXBNMtVc1Y.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E06
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E06" tvg-logo="https://image.tmdb.org/t/p/w300/ad4ibqbEsUl4WsyyjJXBNMtVc1Y.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E06
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86539.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E07" tvg-logo="https://image.tmdb.org/t/p/w300/9xv429mpB22bEr7auosy0eDZXgO.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E07
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E07" tvg-logo="https://image.tmdb.org/t/p/w300/9xv429mpB22bEr7auosy0eDZXgO.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E07
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86540.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E08" tvg-logo="https://image.tmdb.org/t/p/w300/rtxkZENNL3UcO8rtllX7cmnwg24.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E08
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E08" tvg-logo="https://image.tmdb.org/t/p/w300/rtxkZENNL3UcO8rtllX7cmnwg24.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E08
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86541.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E09" tvg-logo="https://image.tmdb.org/t/p/w300/z25dwMeUToY1K61ozSePfPVkVWq.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E09
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E09" tvg-logo="https://image.tmdb.org/t/p/w300/z25dwMeUToY1K61ozSePfPVkVWq.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E09
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E10" tvg-logo="https://image.tmdb.org/t/p/w300/dLYjlgem1gCkwcPOlh35km4WGe3.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E10
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E10" tvg-logo="https://image.tmdb.org/t/p/w300/dLYjlgem1gCkwcPOlh35km4WGe3.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E10
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86543.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E11" tvg-logo="https://image.tmdb.org/t/p/w300/srOqlVrJiR2zHioE5KVBI1dsZMM.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E11
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E11" tvg-logo="https://image.tmdb.org/t/p/w300/srOqlVrJiR2zHioE5KVBI1dsZMM.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E11
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86544.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E12" tvg-logo="https://image.tmdb.org/t/p/w300/zJVSUDgsUeGKBLBuptOheR8FWom.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E12
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E12" tvg-logo="https://image.tmdb.org/t/p/w300/zJVSUDgsUeGKBLBuptOheR8FWom.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E12
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86545.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E13" tvg-logo="https://image.tmdb.org/t/p/w300/rJb660wu6r7JmrTMP3e69BD7piL.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E13
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E13" tvg-logo="https://image.tmdb.org/t/p/w300/rJb660wu6r7JmrTMP3e69BD7piL.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E13
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E14" tvg-logo="https://image.tmdb.org/t/p/w300/5ZjtUhKXTh68hcUTRYoqHrR3KDB.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E14
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E14" tvg-logo="https://image.tmdb.org/t/p/w300/5ZjtUhKXTh68hcUTRYoqHrR3KDB.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E14
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86547.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E15" tvg-logo="https://image.tmdb.org/t/p/w300/8Zg6xD7WL5y8VPUJGXJSArWjqy0.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E15
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E15" tvg-logo="https://image.tmdb.org/t/p/w300/8Zg6xD7WL5y8VPUJGXJSArWjqy0.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E15
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E16" tvg-logo="https://image.tmdb.org/t/p/w300/g3rGg56WHVsbqJHcugmRPUG5ASy.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E16
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E16" tvg-logo="https://image.tmdb.org/t/p/w300/g3rGg56WHVsbqJHcugmRPUG5ASy.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E16
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E17" tvg-logo="https://image.tmdb.org/t/p/w300/jFEHWJUvScg4pjjcGIjPSrVbFiD.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E17
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E17" tvg-logo="https://image.tmdb.org/t/p/w300/jFEHWJUvScg4pjjcGIjPSrVbFiD.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E17
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86550.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E18" tvg-logo="https://image.tmdb.org/t/p/w300/A71OamppWqd9X6CdNwSLgMgIPQe.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E18
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E18" tvg-logo="https://image.tmdb.org/t/p/w300/A71OamppWqd9X6CdNwSLgMgIPQe.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E18
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E19" tvg-logo="https://image.tmdb.org/t/p/w300/331hhbcYgppSlRMUrxzEzURX5ZM.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E19
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E19" tvg-logo="https://image.tmdb.org/t/p/w300/331hhbcYgppSlRMUrxzEzURX5ZM.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E19
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E20" tvg-logo="https://image.tmdb.org/t/p/w300/hDYiWPLXwGDcZikb1ALlhg2DwFm.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E20
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E20" tvg-logo="https://image.tmdb.org/t/p/w300/hDYiWPLXwGDcZikb1ALlhg2DwFm.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E20
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E21" tvg-logo="https://image.tmdb.org/t/p/w300/p96gudr7hMc6Vs5yzIFFIrrjUkB.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E21
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E21" tvg-logo="https://image.tmdb.org/t/p/w300/p96gudr7hMc6Vs5yzIFFIrrjUkB.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E21
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86554.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E22" tvg-logo="https://image.tmdb.org/t/p/w300/j1GzFKKyRJ2cT36KM6L22algRt3.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S05 E22
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S05 E22" tvg-logo="https://image.tmdb.org/t/p/w300/j1GzFKKyRJ2cT36KM6L22algRt3.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S05 E22
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86555.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E01" tvg-logo="https://image.tmdb.org/t/p/w300/jIxFIHvgF2ANEaPHn8EvOk9Gkwz.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E01
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E01" tvg-logo="https://image.tmdb.org/t/p/w300/jIxFIHvgF2ANEaPHn8EvOk9Gkwz.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86556.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E02" tvg-logo="https://image.tmdb.org/t/p/w300/dVLBFF4CkKajeKSdHvrXghmyKUk.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E02
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E02" tvg-logo="https://image.tmdb.org/t/p/w300/dVLBFF4CkKajeKSdHvrXghmyKUk.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E02
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86557.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E03" tvg-logo="https://image.tmdb.org/t/p/w300/r6kHjyfrQQ68C89fEEDbNmChQei.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E03
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E03" tvg-logo="https://image.tmdb.org/t/p/w300/r6kHjyfrQQ68C89fEEDbNmChQei.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E03
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E04" tvg-logo="https://image.tmdb.org/t/p/w300/o3SsQ6Wy8aM14MbOvOaVf8MlcaM.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E04
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E04" tvg-logo="https://image.tmdb.org/t/p/w300/o3SsQ6Wy8aM14MbOvOaVf8MlcaM.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E04
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E05" tvg-logo="https://image.tmdb.org/t/p/w300/y6s1f0v5C3w58OBPbjlwDZDdz5r.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E05
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E05" tvg-logo="https://image.tmdb.org/t/p/w300/y6s1f0v5C3w58OBPbjlwDZDdz5r.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E05
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86560.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E06" tvg-logo="https://image.tmdb.org/t/p/w300/1H566vorlGY7grWuD0u6RvokNpY.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E06
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E06" tvg-logo="https://image.tmdb.org/t/p/w300/1H566vorlGY7grWuD0u6RvokNpY.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E06
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86561.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E07" tvg-logo="https://image.tmdb.org/t/p/w300/zMoNpMJ2zwYW1jFnObDtKR0rvKz.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E07
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E07" tvg-logo="https://image.tmdb.org/t/p/w300/zMoNpMJ2zwYW1jFnObDtKR0rvKz.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E07
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86562.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E08" tvg-logo="https://image.tmdb.org/t/p/w300/s8Y7Qdv4s5Wjm3ldnhYE3ltZLlB.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E08
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E08" tvg-logo="https://image.tmdb.org/t/p/w300/s8Y7Qdv4s5Wjm3ldnhYE3ltZLlB.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E08
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E09" tvg-logo="https://image.tmdb.org/t/p/w300/Ap71f2SdEbI2WjmTpXSiTozTfzE.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E09
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E09" tvg-logo="https://image.tmdb.org/t/p/w300/Ap71f2SdEbI2WjmTpXSiTozTfzE.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E09
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86564.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E10" tvg-logo="https://image.tmdb.org/t/p/w300/4oQ3yYsCxkPifBQBfVJ0s5mSSv9.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E10
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E10" tvg-logo="https://image.tmdb.org/t/p/w300/4oQ3yYsCxkPifBQBfVJ0s5mSSv9.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E10
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86565.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E11" tvg-logo="https://image.tmdb.org/t/p/w300/agxFUKz09yLMHG2KKa8p6O2Lk9V.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E11
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E11" tvg-logo="https://image.tmdb.org/t/p/w300/agxFUKz09yLMHG2KKa8p6O2Lk9V.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E11
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86566.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E12" tvg-logo="https://image.tmdb.org/t/p/w300/ntfY99TBIqJycm5AaiDFRcLXB7M.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E12
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E12" tvg-logo="https://image.tmdb.org/t/p/w300/ntfY99TBIqJycm5AaiDFRcLXB7M.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E12
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E13" tvg-logo="https://image.tmdb.org/t/p/w300/7kV6q3mhwCtF0pZ7BdfexQ0WmQZ.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E13
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E13" tvg-logo="https://image.tmdb.org/t/p/w300/7kV6q3mhwCtF0pZ7BdfexQ0WmQZ.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E13
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E14" tvg-logo="https://image.tmdb.org/t/p/w300/1nFZ1z6uO01FyiGmEEX3rhxqGh5.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E14
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E14" tvg-logo="https://image.tmdb.org/t/p/w300/1nFZ1z6uO01FyiGmEEX3rhxqGh5.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E14
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86569.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E15" tvg-logo="https://image.tmdb.org/t/p/w300/e1cWFy0M1LEHWwiaPbw7iSQjqBD.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E15
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E15" tvg-logo="https://image.tmdb.org/t/p/w300/e1cWFy0M1LEHWwiaPbw7iSQjqBD.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E15
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86570.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E16" tvg-logo="https://image.tmdb.org/t/p/w300/qJf9W8wAYHf8FUlzP9iXHjylOAf.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E16
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E16" tvg-logo="https://image.tmdb.org/t/p/w300/qJf9W8wAYHf8FUlzP9iXHjylOAf.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E16
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86571.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E17" tvg-logo="https://image.tmdb.org/t/p/w300/kplKQiAzBNWpxsXlLFsjtxX2GCa.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E17
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E17" tvg-logo="https://image.tmdb.org/t/p/w300/kplKQiAzBNWpxsXlLFsjtxX2GCa.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E17
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86572.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E18" tvg-logo="https://image.tmdb.org/t/p/w300/gvd06iH1OhzZL5vidZJ05hXGKMF.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E18
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E18" tvg-logo="https://image.tmdb.org/t/p/w300/gvd06iH1OhzZL5vidZJ05hXGKMF.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E18
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86573.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E19" tvg-logo="https://image.tmdb.org/t/p/w300/z0WvmbiTGp120eS5fz69AT6TTKd.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E19
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E19" tvg-logo="https://image.tmdb.org/t/p/w300/z0WvmbiTGp120eS5fz69AT6TTKd.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E19
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86574.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E20" tvg-logo="https://image.tmdb.org/t/p/w300/sxLbDmQhk0gRYt7pvq1LrIM49s0.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E20
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E20" tvg-logo="https://image.tmdb.org/t/p/w300/sxLbDmQhk0gRYt7pvq1LrIM49s0.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E20
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86575.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E21" tvg-logo="https://image.tmdb.org/t/p/w300/bbdOEzROgiDIP3AyMiC1ZijT5CA.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E21
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E21" tvg-logo="https://image.tmdb.org/t/p/w300/bbdOEzROgiDIP3AyMiC1ZijT5CA.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E21
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86576.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E22" tvg-logo="https://image.tmdb.org/t/p/w300/bHgRKriSuQPgH60dJPlX0jP7o5j.jpg" group-title="SÉRIES | Ação",Xena: A Princesa Guerreira S06 E22
+#EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E22" tvg-logo="https://image.tmdb.org/t/p/w300/bHgRKriSuQPgH60dJPlX0jP7o5j.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E22
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86577.mp4
 
 #EXTM3U url-tvg="http://grade-de-Família Dinossauros.xml"
