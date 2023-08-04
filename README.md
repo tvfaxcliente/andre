@@ -1042,42 +1042,28 @@ http://axr.life:80/968367/462903/1263321
  ############## CANAIS | GLOBO ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS | GLOBO" group-title="
 
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="http://i.imgur.com/2RRYLDc.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS FHD
-http://7go.xyz:8080/zogbi11/982451290/18534
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS HD
-http://7go.xyz:8080/zogbi11/982451290/18545
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD
-http://7go.xyz:8080/zogbi11/982451290/18568
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD
-http://7go.xyz:8080/zogbi11/982451290/23562
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
-http://7go.xyz:8080/zogbi11/982451290/18556
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
-http://7go.xyz:8080/zogbi11/982451290/22171
-#EXTINF:-1 tvg-id="agromais.br" tvg-name="GLOBO RJ HD" tvg-logo="http://i.imgur.com/2RRYLDc.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
-http://7go.xyz:8080/zogbi11/982451290/109040
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ SD
-http://7go.xyz:8080/zogbi11/982451290/18574
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ SD
-http://7go.xyz:8080/zogbi11/982451290/64895
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP FHD Max" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP FHD Max
-http://7go.xyz:8080/zogbi11/982451290/54357
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP FHD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
-http://7go.xyz:8080/zogbi11/982451290/29601
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP FHD" tvg-logo="http://i.imgur.com/2RRYLDc.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
-http://7go.xyz:8080/zogbi11/982451290/18533
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP FHD
-http://7go.xyz:8080/zogbi11/982451290/22175
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP HD
-http://7go.xyz:8080/zogbi11/982451290/18569
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP HD
-http://7go.xyz:8080/zogbi11/982451290/18558
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP HD
-http://7go.xyz:8080/zogbi11/982451290/29602
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP SD
-http://7go.xyz:8080/zogbi11/982451290/18576
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP SD
-http://7go.xyz:8080/zogbi11/982451290/50097
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO SP - 4K H265²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - 4K H265²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/53599
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83013
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - FHD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83014
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - H265" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - H265
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/99889
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83011
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - HD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83012
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - SD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83010
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/130579
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/130578
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83053
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - SD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83123
 
 #EXTM3U url-tvg=" http://grade-de-Canais | Band.xml "
  ##############Canais | Band ############## ### 
