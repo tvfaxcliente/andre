@@ -28,6 +28,113 @@ http://stream.zeno.fm/uhoa45pks0vvv.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO FAX",FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv
 
+#EXTM3U url-tvg=" http://grade-de-Canais SBT.xml "
+ ############## Canais SBT ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais SBT" group-title="
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - 4K" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - 4K
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/54298
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - FHD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83669
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - h265²" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - h265²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83668
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83666
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - SD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83665
+#EXTINF:-1 tvg-id="" tvg-name="SBT BRASILIA - HD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT BRASILIA - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781367
+#EXTINF:-1 tvg-id="" tvg-name="SBT PARA -HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT PARA -HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/1385357
+#EXTINF:-1 tvg-id="" tvg-name="SBT PARANÁ" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT PARANÁ
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138767949
+#EXTINF:-1 tvg-id="" tvg-name="SBT RECIFE TV JORNAL - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT RECIFE TV JORNAL - H264
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781368
+#EXTINF:-1 tvg-id="" tvg-name="SBT REDE MASSA" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT REDE MASSA
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138761814
+#EXTINF:-1 tvg-id="" tvg-name="SBT SC - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT SC - H264
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774685
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT SP - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/320223
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - SD²" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT SP - SD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83671
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS RECORD.xml "
+ ############## CANAIS RECORD ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS RECORD" group-title="
+
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Interior SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS RECORD",Record Interior SP FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82876
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record Interior SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS RECORD",RecordTV
+http://apkwuv.xyz:80/cristina2021/graniptv2005/162669
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS RECORD",RECORD SP SD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82876
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV  SJRP - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS RECORD",RECORDTV  SJRP - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774703
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS RECORD",Record HD [Alt]
+http://apkwuv.xyz:80/cristina2021/graniptv2005/147667
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS RECORD",RECORD SP SD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82876
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Interior SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS RECORD",Record Interior SP HD
+http://apkwuv.xyz:80/cristina2021/graniptv2005/162670
+#EXTINF:-1 tvg-name="Record SP" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP" tvg-logo="https://lib.bz/logos/record.jpg" group-title="CANAIS RECORD",Record SP
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP 4K" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS RECORD",Record SP 4K
+http://piglo.re:80/14957348417/2839302i178101/53724
+#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtv.png" group-title="CANAIS RECORD",Record SP FHD
+http://piglo.re:80/14957348417/2839302i178101/53780
+#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtv.png" group-title="CANAIS RECORD",Record SP HD
+http://piglo.re:80/14957348417/2839302i178101/53781
+#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP HD²" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtv.png" group-title="CANAIS RECORD",Record SP HD²
+http://piglo.re:80/14957348417/2839302i178101/53782
+#EXTINF:-1 tvg-name="Record SP FHD" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP FHD
+ http://5ce.co:80/live/mlindoso/qwe9673/35799.m3u8
+#EXTINF:-1 tvg-name="Record SP FHD²" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP FHD²
+ http://5ce.co:80/live/mlindoso/qwe9673/26148.m3u8
+#EXTINF:-1 tvg-name="Record SP HD" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP HD
+ http://5ce.co:80/live/mlindoso/qwe9673/35790.m3u8
+#EXTINF:-1 tvg-name="Record SP HD²" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP HD²
+ http://5ce.co:80/live/mlindoso/qwe9673/35389.m3u8
+#EXTINF:-1 tvg-name="Record SP SD" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP SD
+ http://5ce.co:80/live/mlindoso/qwe9673/35793.m3u8
+#EXTINF:-1 tvg-name="Record SP SD²" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP SD²
+ http://5ce.co:80/live/mlindoso/qwe9673/41110.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP - Capital FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS RECORD",Record SP - Capital FHD
+http://axr.life:80/968367/462903/1263323
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP - Capital HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS RECORD",Record SP - Capital HD
+http://axr.life:80/968367/462903/1263322
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP - Capital SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS RECORD",Record SP - Capital SD
+http://axr.life:80/968367/462903/1263321
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS | GLOBO.xml "
+ ############## CANAIS | GLOBO ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | GLOBO" group-title="
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO SP - 4K H265²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - 4K H265²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/53599
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83013
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - FHD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83014
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - H265" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - H265
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/99889
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83011
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - HD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83012
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - SD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83010
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/130579
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/130578
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83053
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - SD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83123
+
 #EXTM3U url-tvg=" http://grade-de-CANAIS no Brasil.xml "
  ############## CANAIS no Brasil ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS no Brasil" group-title="
@@ -957,113 +1064,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaChannel.br" tvg-logo="https://i.imgur.com/c1QqslA.png" group-title="CANAIS no Brasil",Alpha Channel
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-Canais SBT.xml "
- ############## Canais SBT ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais SBT" group-title="
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - 4K" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - 4K
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/54298
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - FHD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83669
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - h265²" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - h265²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83668
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83666
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - SD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83665
-#EXTINF:-1 tvg-id="" tvg-name="SBT BRASILIA - HD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT BRASILIA - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781367
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARA -HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT PARA -HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/1385357
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARANÁ" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT PARANÁ
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138767949
-#EXTINF:-1 tvg-id="" tvg-name="SBT RECIFE TV JORNAL - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT RECIFE TV JORNAL - H264
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781368
-#EXTINF:-1 tvg-id="" tvg-name="SBT REDE MASSA" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT REDE MASSA
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138761814
-#EXTINF:-1 tvg-id="" tvg-name="SBT SC - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT SC - H264
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774685
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT SP - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/320223
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - SD²" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT SP - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83671
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS RECORD.xml "
- ############## CANAIS RECORD ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS RECORD" group-title="
-
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Interior SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS RECORD",Record Interior SP FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82876
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="Record Interior SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS RECORD",RecordTV
-http://apkwuv.xyz:80/cristina2021/graniptv2005/162669
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS RECORD",RECORD SP SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82876
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV  SJRP - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS RECORD",RECORDTV  SJRP - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774703
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS RECORD",Record HD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147667
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS RECORD",RECORD SP SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82876
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Interior SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS RECORD",Record Interior SP HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/162670
-#EXTINF:-1 tvg-name="Record SP" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP" tvg-logo="https://lib.bz/logos/record.jpg" group-title="CANAIS RECORD",Record SP
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP 4K" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS RECORD",Record SP 4K
-http://piglo.re:80/14957348417/2839302i178101/53724
-#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtv.png" group-title="CANAIS RECORD",Record SP FHD
-http://piglo.re:80/14957348417/2839302i178101/53780
-#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtv.png" group-title="CANAIS RECORD",Record SP HD
-http://piglo.re:80/14957348417/2839302i178101/53781
-#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP HD²" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtv.png" group-title="CANAIS RECORD",Record SP HD²
-http://piglo.re:80/14957348417/2839302i178101/53782
-#EXTINF:-1 tvg-name="Record SP FHD" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP FHD
- http://5ce.co:80/live/mlindoso/qwe9673/35799.m3u8
-#EXTINF:-1 tvg-name="Record SP FHD²" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP FHD²
- http://5ce.co:80/live/mlindoso/qwe9673/26148.m3u8
-#EXTINF:-1 tvg-name="Record SP HD" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP HD
- http://5ce.co:80/live/mlindoso/qwe9673/35790.m3u8
-#EXTINF:-1 tvg-name="Record SP HD²" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP HD²
- http://5ce.co:80/live/mlindoso/qwe9673/35389.m3u8
-#EXTINF:-1 tvg-name="Record SP SD" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP SD
- http://5ce.co:80/live/mlindoso/qwe9673/35793.m3u8
-#EXTINF:-1 tvg-name="Record SP SD²" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP SD²
- http://5ce.co:80/live/mlindoso/qwe9673/41110.m3u8
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP - Capital FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS RECORD",Record SP - Capital FHD
-http://axr.life:80/968367/462903/1263323
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP - Capital HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS RECORD",Record SP - Capital HD
-http://axr.life:80/968367/462903/1263322
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP - Capital SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS RECORD",Record SP - Capital SD
-http://axr.life:80/968367/462903/1263321
-
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS | GLOBO.xml "
- ############## CANAIS | GLOBO ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | GLOBO" group-title="
-
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO SP - 4K H265²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - 4K H265²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/53599
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83013
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - FHD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83014
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - H265" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - H265
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/99889
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83011
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83012
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - SD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83010
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/130579
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/130578
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83053
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83123
 
 #EXTM3U url-tvg=" http://grade-de-Canais | Band.xml "
  ##############Canais | Band ############## ### 
