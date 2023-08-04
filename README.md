@@ -112,6 +112,10 @@ http://axr.life:80/968367/462903/1263321
  ############## CANAIS | GLOBO ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS | GLOBO" group-title="
 
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - FHD
+https://dtv-latam-jbc.aklamaihd.net/live/vintequatrohrs1_2000/index.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - HD
+https://server101.shop/globo-sp/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=4f28fb0fae9d6439ad70799faf5614866f8391c8-b1b0be60bb9568a45cad940a457aa2c5-1691195983-1691192383
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO SP - 4K H265²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - 4K H265²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/53599
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - FHD
