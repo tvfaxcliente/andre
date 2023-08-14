@@ -524,11 +524,11 @@ http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/289001
  ############## CANAIS RECORD ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS RECORD" group-title="
 
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP 4K" tvg-logo="https://i.imgur.com/LzwVYs3.png" group-title="Canais | 4K - H265",Record SP 4K
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP 4K" tvg-logo="https://media3.giphy.com/media/dXWap9DPH2zvst9Txn/200.gif" group-title="CANAIS RECORD",Record SP 4K
 http://apkwuv.xyz:80/cristina2021/graniptv2005/151036
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP FHD
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP FHD" tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/8adc9d4384ddc2f42f127380c492b271/367968-multi-media-channels-tv-world-brazil-recordtv.gif" group-title="Canais | Record",Record SP FHD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/162663
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | 4K - H265",Record SP FHD [H265]
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP FHD [H265]" tvg-logo="https://3.bp.blogspot.com/-UgZodyppjDM/TuuBlvuXEbI/AAAAAAAAHNo/bnMRXMIIj-Y/s1600/hh.gif" group-title="CANAIS RECORD",Record SP FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83430
 #EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83468
@@ -585,61 +585,61 @@ http://axr.life:80/968367/462903/1263321
  ############## CANAIS GLOBO TV TEM SOROCABA ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS GLOBO TV TEM SOROCABA" group-title="
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS GLOBO TV TEM SOROCABA",GLOBO TV TEM SOROCABA - FHD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - FHD" tvg-logo="https://miro.medium.com/v2/resize:fit:744/1*wlKwt0wVGI9ovblicPIvqw.png" group-title="CANAIS GLOBO TV TEM SOROCABA",GLOBO TV TEM SOROCABA - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/130579
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS GLOBO TV TEM SOROCABA",GLOBO TV TEM SOROCABA - HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - HD" tvg-logo="https://2.bp.blogspot.com/-3HBPaartLV4/UT9wt2EK0aI/AAAAAAAAF-4/0tIAySgVrYk/s1600/TV+TEM+Digital+.jpg" group-title="CANAIS GLOBO TV TEM SOROCABA",GLOBO TV TEM SOROCABA - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/130578
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS GLOBO TV TEM SOROCABA",GLOBO TV TEM SOROCABA - SD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD" tvg-logo="https://panoramaaudiovisual.com.br/wp-content/uploads/2019/07/tv-temolimpia-1250x744.jpg" group-title="CANAIS GLOBO TV TEM SOROCABA",GLOBO TV TEM SOROCABA - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83053
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS GLOBO TV TEM SOROCABA",GLOBO TV TEM SOROCABA - SD²
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD²" tvg-logo="https://www.abi.org.br/wp-content/uploads/2017/06/mascote-tv-tem.jpg" group-title="CANAIS GLOBO TV TEM SOROCABA",GLOBO TV TEM SOROCABA - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83123
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba FHD
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba FHD" tvg-logo="https://leianoticias.com.br/wp-content/uploads/2017/05/tv-tem-digital.png" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba FHD
 http://apkwuv.xyz:80/judeva/deva10ju/152579
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba HD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba HD
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyEMYvRF1kR4DSpBACiiLwuBLvev0x7MhcULS65HtmDVi4lZtF4Dsoth_PkWKuyxuCrg&usqp=CAU" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba HD
 http://apkwuv.xyz:80/judeva/deva10ju/162466
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba HD [Alt]
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba HD [Alt]" tvg-logo="https://s02.video.glbimg.com/x216/9143897.jpg" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba HD [Alt]
 http://apkwuv.xyz:80/judeva/deva10ju/147373
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba SD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba SD
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba SD" tvg-logo="https://live.staticflickr.com/3779/13907945084_cbf5724168_b.jpg" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba SD
 http://apkwuv.xyz:80/judeva/deva10ju/83654
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba SD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba SD [Alt]
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba SD [Alt]" tvg-logo="https://miro.medium.com/v2/resize:fit:744/1*wlKwt0wVGI9ovblicPIvqw.png" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba SD [Alt]
 http://apkwuv.xyz:80/judeva/deva10ju/147372
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS | GLOBO.xml "
  ############## CANAIS | GLOBO SP ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS | GLOBO" group-title="
 
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO SP - 4K H265²" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - 4K H265²
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO SP - 4K H265²" tvg-logo="https://thumbs.gfycat.com/GargantuanFalseCottonmouth-size_restricted.gif" group-title="CANAIS | GLOBO SP", GLOBO SP - 4K H265²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/53599
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - FHD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD" tvg-logo="https://thumbs.gfycat.com/HopefulIndolentDotterel-size_restricted.gif" group-title="CANAIS | GLOBO SP", GLOBO SP - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83013
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - FHD²
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD²" tvg-logo="https://media.tenor.com/DWUQwAyxem0AAAAM/globo-tv-globo.gif" group-title="CANAIS | GLOBO SP", GLOBO SP - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83014
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - H265" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - H265
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - H265" tvg-logo="https://media.tenor.com/QpmO8ZcrGcgAAAAM/rede-globo-futebol.gif" group-title="CANAIS | GLOBO SP", GLOBO SP - H265
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/99889
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD" tvg-logo="https://media.tenor.com/FkdXIt1Z5FQAAAAC/vinheta-tv.gif" group-title="CANAIS | GLOBO SP", GLOBO SP - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83011
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - HD²
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD²" tvg-logo="https://thumbs.gfycat.com/OrganicUncomfortableBarebirdbat-size_restricted.gif" group-title="CANAIS | GLOBO SP", GLOBO SP - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83012
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - SD" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - SD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - SD" tvg-logo="https://64.media.tumblr.com/85cd1f625ba5a8e4b14353834dad532e/a3d04ea59cf1f1e3-07/s540x810/97b0ebd58c72f5e35951b60f5e1c19758d3125cb.gif" group-title="CANAIS | GLOBO SP", GLOBO SP - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83010
 
 #EXTM3U url-tvg=" http://grade-de-Canais | Globos.xml "
  ############## Canais | Globos ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais | Globos" group-title="
 
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Araxá MG HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Araxá MG HD
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Araxá MG HD" tvg-logo="https://media.tenor.com/jCJNoodAyWQAAAAC/vinheta-rede.gif" group-title="Canais | Globos",GB Araxá MG HD
 http://apkwuv.xyz:80/judeva/deva10ju/162709
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Araxá MG FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Araxá MG FHD
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Araxá MG FHD" tvg-logo="https://media.tenor.com/-4nndaJ4VrMAAAAC/vinheta-rede.gif" group-title="Canais | Globos",GB Araxá MG FHD
 http://apkwuv.xyz:80/judeva/deva10ju/162710
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Araxá MG SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Araxá MG SD
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Araxá MG SD" tvg-logo="https://media.tenor.com/47xm2Ok6OVUAAAAd/vinheta-tv.gif" group-title="Canais | Globos",GB Araxá MG SD
 http://apkwuv.xyz:80/judeva/deva10ju/162708
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Bahia Salvador HD
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador HD" tvg-logo="https://media.tenor.com/zUDYtzbdvhMAAAAC/vinheta-rede.gif" group-title="Canais | Globos",GB Bahia Salvador HD
 http://apkwuv.xyz:80/judeva/deva10ju/132028
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Bahia Salvador FHD
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador FHD" tvg-logo="https://i.pinimg.com/originals/ae/cb/11/aecb11d10bb17deca4914c881c65549d.gif" group-title="Canais | Globos",GB Bahia Salvador FHD
 http://apkwuv.xyz:80/judeva/deva10ju/132027
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Bahia Salvador FHD [Alt]
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador FHD [Alt]" tvg-logo="https://thumbs.gfycat.com/FirsthandBlackandwhiteBetafish-max-1mb.gif" group-title="Canais | Globos",GB Bahia Salvador FHD [Alt]
 http://apkwuv.xyz:80/judeva/deva10ju/147391
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Bahia Salvador HD [Alt]
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador HD [Alt]" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/68109c4b-305e-4b90-899f-415bdf57b476/deqn030-d09a1f58-bc9b-4d94-9acf-3f021f5a06e9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4MTA5YzRiLTMwNWUtNGI5MC04OTlmLTQxNWJkZjU3YjQ3NlwvZGVxbjAzMC1kMDlhMWY1OC1iYzliLTRkOTQtOWFjZi0zZjAyMWY1YTA2ZTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Q3nlJ_SPweq588v1CseKCH1x-vnbWpazoKU3y7gnl-w" group-title="Canais | Globos",GB Bahia Salvador HD [Alt]
 http://apkwuv.xyz:80/judeva/deva10ju/147392
 #EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Bahia Salvador SD
 http://apkwuv.xyz:80/judeva/deva10ju/83644
@@ -681,409 +681,7 @@ http://apkwuv.xyz:80/judeva/deva10ju/162812
 http://apkwuv.xyz:80/judeva/deva10ju/83516
 #EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB EPTV Sul de Minas SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Sul de Minas SD
 http://apkwuv.xyz:80/judeva/deva10ju/284490
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Alto Litoral FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162707
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Alto Litoral FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147406
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Alto Litoral HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral HD
-http://apkwuv.xyz:80/judeva/deva10ju/162706
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Alto Litoral SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral SD
-http://apkwuv.xyz:80/judeva/deva10ju/162705
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Cabugi Natal FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Cabugi Natal FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162784
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Cabugi Natal HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Cabugi Natal HD
-http://apkwuv.xyz:80/judeva/deva10ju/162785
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Cabugi Natal SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Cabugi Natal SD
-http://apkwuv.xyz:80/judeva/deva10ju/147407
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV dos Vales FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV dos Vales FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162713
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV dos Vales HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV dos Vales HD
-http://apkwuv.xyz:80/judeva/deva10ju/162712
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Serra Mar FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Serra Mar FHD
-http://apkwuv.xyz:80/judeva/deva10ju/150157
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Serra Mar HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Serra Mar HD
-http://apkwuv.xyz:80/judeva/deva10ju/150156
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB Inter TV Serra Mar SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Serra Mar SD
-http://apkwuv.xyz:80/judeva/deva10ju/164591
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB MG Inter TV Grande Minas FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas FHD
-http://apkwuv.xyz:80/judeva/deva10ju/165439
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB MG Inter TV Grande Minas HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas HD
-http://apkwuv.xyz:80/judeva/deva10ju/165440
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB MG Inter TV Grande Minas SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas SD
-http://apkwuv.xyz:80/judeva/deva10ju/162674
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Minas FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Minas FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162792
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Minas FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Minas FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147374
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Minas HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Minas HD
-http://apkwuv.xyz:80/judeva/deva10ju/83491
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Minas HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Minas HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147375
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB Minas SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Minas SD
-http://apkwuv.xyz:80/judeva/deva10ju/83565
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Nordeste Recife FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162790
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Nordeste Recife FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147376
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Nordeste Recife HD
-http://apkwuv.xyz:80/judeva/deva10ju/162791
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Nordeste Recife HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147377
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Nordeste Recife SD
-http://apkwuv.xyz:80/judeva/deva10ju/83567
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162778
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147410
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau HD
-http://apkwuv.xyz:80/judeva/deva10ju/83489
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147670
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Centro Oeste FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Centro Oeste FHD
-http://apkwuv.xyz:80/judeva/deva10ju/193334
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Centro Oeste HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Centro Oeste HD
-http://apkwuv.xyz:80/judeva/deva10ju/193333
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB NSC TV Centro Oeste SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Centro Oeste SD
-http://apkwuv.xyz:80/judeva/deva10ju/126115
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Chapeco FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Chapeco FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162714
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Chapeco HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Chapeco HD
-http://apkwuv.xyz:80/judeva/deva10ju/147411
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Chapeco SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Chapeco SD
-http://apkwuv.xyz:80/judeva/deva10ju/162715
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Criciúma FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Criciúma FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162789
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Criciúma FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Criciúma FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147412
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Criciúma HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Criciúma HD
-http://apkwuv.xyz:80/judeva/deva10ju/162771
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianopolis FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Florianopolis FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162775
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianopolis SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Florianopolis SD
-http://apkwuv.xyz:80/judeva/deva10ju/162777
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianópolis FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Florianópolis FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147379
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianópolis HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Florianópolis HD
-http://apkwuv.xyz:80/judeva/deva10ju/83500
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianópolis HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Florianópolis HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147380
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Joinville FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Joinville FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162719
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Joinville FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Joinville FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147413
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Joinville HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Joinville HD
-http://apkwuv.xyz:80/judeva/deva10ju/162718
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB PB TV Paraíba HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB PB TV Paraíba HD
-http://apkwuv.xyz:80/judeva/deva10ju/147726
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB PE Asa Branca FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB PE Asa Branca FHD
-http://apkwuv.xyz:80/judeva/deva10ju/152922
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB PE Asa Branca HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB PE Asa Branca HD
-http://apkwuv.xyz:80/judeva/deva10ju/151324
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Caxias do Sul FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Caxias do Sul FHD
-http://apkwuv.xyz:80/judeva/deva10ju/83438
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Caxias do Sul HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Caxias do Sul HD
-http://apkwuv.xyz:80/judeva/deva10ju/83333
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Caxias SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Caxias SD
-http://apkwuv.xyz:80/judeva/deva10ju/147414
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Cruz Alta FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Cruz Alta FHD
-http://apkwuv.xyz:80/judeva/deva10ju/83579
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Cruz Alta HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Cruz Alta HD
-http://apkwuv.xyz:80/judeva/deva10ju/165433
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Passo Fundo FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Passo Fundo FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162761
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Passo Fundo HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Passo Fundo HD
-http://apkwuv.xyz:80/judeva/deva10ju/162803
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Passo Fundo SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Passo Fundo SD
-http://apkwuv.xyz:80/judeva/deva10ju/154680
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Pelotas FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Pelotas FHD
-http://apkwuv.xyz:80/judeva/deva10ju/86690
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Pelotas HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Pelotas HD
-http://apkwuv.xyz:80/judeva/deva10ju/86691
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Pelotas SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Pelotas SD
-http://apkwuv.xyz:80/judeva/deva10ju/147415
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre FHD
-http://apkwuv.xyz:80/judeva/deva10ju/154096
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147381
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre HD
-http://apkwuv.xyz:80/judeva/deva10ju/83462
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147382
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre SD
-http://apkwuv.xyz:80/judeva/deva10ju/83611
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB RBS TV Santa Maria FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Santa Maria FHD
-http://apkwuv.xyz:80/judeva/deva10ju/287472
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Santa Maria HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Santa Maria HD
-http://apkwuv.xyz:80/judeva/deva10ju/147416
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB RBS TV Santa Maria SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Santa Maria SD
-http://apkwuv.xyz:80/judeva/deva10ju/287471
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazonica Porto Velho HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazonica Porto Velho HD
-http://apkwuv.xyz:80/judeva/deva10ju/163693
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Manaus FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Manaus FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162793
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Manaus HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Manaus HD
-http://apkwuv.xyz:80/judeva/deva10ju/83497
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Manaus SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Manaus SD
-http://apkwuv.xyz:80/judeva/deva10ju/147417
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Porto Velho FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Porto Velho FHD
-http://apkwuv.xyz:80/judeva/deva10ju/152928
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Rio Branco FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rio Branco FHD
-http://apkwuv.xyz:80/judeva/deva10ju/152927
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Rio Branco HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rio Branco HD
-http://apkwuv.xyz:80/judeva/deva10ju/163694
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Rondônia FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rondônia FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162734
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Rondônia HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rondônia HD
-http://apkwuv.xyz:80/judeva/deva10ju/165434
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Boa Vista FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Boa Vista FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162554
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Boa Vista HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Boa Vista HD
-http://apkwuv.xyz:80/judeva/deva10ju/162683
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Macapá FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Macapá FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162723
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Macapá HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Macapá HD
-http://apkwuv.xyz:80/judeva/deva10ju/162685
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RJ FHD
-http://apkwuv.xyz:80/judeva/deva10ju/83502
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RJ FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147384
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RJ HD
-http://apkwuv.xyz:80/judeva/deva10ju/83459
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RJ HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147385
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RJ SD
-http://apkwuv.xyz:80/judeva/deva10ju/83568
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Cascavel FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Cascavel FHD
-http://apkwuv.xyz:80/judeva/deva10ju/83330
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Cascavel HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Cascavel HD
-http://apkwuv.xyz:80/judeva/deva10ju/83298
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Cascavel SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Cascavel SD
-http://apkwuv.xyz:80/judeva/deva10ju/83289
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Curitiba FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Curitiba FHD
-http://apkwuv.xyz:80/judeva/deva10ju/154280
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Curitiba FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Curitiba FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147386
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Curitiba HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Curitiba HD
-http://apkwuv.xyz:80/judeva/deva10ju/83493
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Curitiba SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Curitiba SD
-http://apkwuv.xyz:80/judeva/deva10ju/147387
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Foz do Iguaçu FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Foz do Iguaçu FHD
-http://apkwuv.xyz:80/judeva/deva10ju/86704
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Foz do Iguaçu HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Foz do Iguaçu HD
-http://apkwuv.xyz:80/judeva/deva10ju/86705
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Foz do Iguaçu SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Foz do Iguaçu SD
-http://apkwuv.xyz:80/judeva/deva10ju/147418
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Maringa FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Maringa FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162704
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Maringa HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Maringa HD
-http://apkwuv.xyz:80/judeva/deva10ju/162703
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Maringá FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Maringá FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147419
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Ponta Grossa FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Ponta Grossa FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162698
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Ponta Grossa FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Ponta Grossa FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147420
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Ponta Grossa HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Ponta Grossa HD
-http://apkwuv.xyz:80/judeva/deva10ju/162699
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC TV Paranavai FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC TV Paranavai FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162722
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC TV Paranavai HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC TV Paranavai HD
-http://apkwuv.xyz:80/judeva/deva10ju/162721
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB SP FHD
-http://apkwuv.xyz:80/judeva/deva10ju/83510
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB SP FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147388
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB SP HD
-http://apkwuv.xyz:80/judeva/deva10ju/83461
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB SP HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147389
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB SP SD
-http://apkwuv.xyz:80/judeva/deva10ju/83569
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162787
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147404
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás HD
-http://apkwuv.xyz:80/judeva/deva10ju/83270
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147405
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás SD
-http://apkwuv.xyz:80/judeva/deva10ju/83642
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Asa Branca Caruaru FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Asa Branca Caruaru FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147421
-#EXTINF:-1 tvg-id="TV Cabo Branco" tvg-name="GB TV Cabo Branco FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Cabo Branco FHD
-http://apkwuv.xyz:80/judeva/deva10ju/153908
-#EXTINF:-1 tvg-id="TV Cabo Branco" tvg-name="GB TV Cabo Branco HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Cabo Branco HD
-http://apkwuv.xyz:80/judeva/deva10ju/162696
-#EXTINF:-1 tvg-id="TV Cabo Branco" tvg-name="GB TV Cabo Branco SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Cabo Branco SD
-http://apkwuv.xyz:80/judeva/deva10ju/83590
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Centro America Cuiabá FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Centro America Cuiabá FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162751
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Centro America Cuiabá HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Centro America Cuiabá HD
-http://apkwuv.xyz:80/judeva/deva10ju/162752
-#EXTINF:-1 tvg-id="Globo São Paulo" tvg-name="GB TV Centro America Cuiabá SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Centro America Cuiabá SD
-http://apkwuv.xyz:80/judeva/deva10ju/140943
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Centro América Cuiabá FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Centro América Cuiabá FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147368
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Centro América Cuiabá HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Centro América Cuiabá HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147369
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Clube Teresina FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Clube Teresina FHD
-http://apkwuv.xyz:80/judeva/deva10ju/147728
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Clube Teresina HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Clube Teresina HD
-http://apkwuv.xyz:80/judeva/deva10ju/162749
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Clube Teresina SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Clube Teresina SD
-http://apkwuv.xyz:80/judeva/deva10ju/83508
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Diario Mogi das Cruzes FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Diario Mogi das Cruzes FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162745
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Diario Mogi das Cruzes HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Diario Mogi das Cruzes HD
-http://apkwuv.xyz:80/judeva/deva10ju/83313
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Diario Mogi das Cruzes SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Diario Mogi das Cruzes SD
-http://apkwuv.xyz:80/judeva/deva10ju/162746
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Fronteira Presidente Prudente FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Fronteira Presidente Prudente FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162672
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Fronteira Presidente Prudente HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Fronteira Presidente Prudente HD
-http://apkwuv.xyz:80/judeva/deva10ju/162673
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta Alagoas FHD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162691
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta Alagoas FHD [Alt]" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147422
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta Alagoas HD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas HD
-http://apkwuv.xyz:80/judeva/deva10ju/162692
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta Alagoas SD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas SD
-http://apkwuv.xyz:80/judeva/deva10ju/139482
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Sul FHD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Sul FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162687
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Sul HD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Sul HD
-http://apkwuv.xyz:80/judeva/deva10ju/162688
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Vitoria FHD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162684
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Vitoria FHD [Alt]" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147401
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Vitoria HD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria HD
-http://apkwuv.xyz:80/judeva/deva10ju/162686
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Vitoria HD [Alt]" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147408
-#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GB TV Gazeta Sul FHD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Sul FHD
-http://apkwuv.xyz:80/judeva/deva10ju/83310
-#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GB TV Gazeta Sul HD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Sul HD
-http://apkwuv.xyz:80/judeva/deva10ju/83303
-#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GB TV Gazeta Sul SD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Sul SD
-http://apkwuv.xyz:80/judeva/deva10ju/83214
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Integracao Juiz de Fora FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Integracao Juiz de Fora FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162681
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Integracao Juiz de Fora HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Integracao Juiz de Fora HD
-http://apkwuv.xyz:80/judeva/deva10ju/162682
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Integracao Juiz de Fora SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Integracao Juiz de Fora SD
-http://apkwuv.xyz:80/judeva/deva10ju/147424
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB TV Integracao Uberaba FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Integracao Uberaba FHD
-http://apkwuv.xyz:80/judeva/deva10ju/83205
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB TV Integracao Uberaba HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Integracao Uberaba HD
-http://apkwuv.xyz:80/judeva/deva10ju/83401
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB TV Integracao Uberaba SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Integracao Uberaba SD
-http://apkwuv.xyz:80/judeva/deva10ju/83381
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belem FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Liberal Belem FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162744
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belém FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Liberal Belém FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147393
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belém HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Liberal Belém HD
-http://apkwuv.xyz:80/judeva/deva10ju/83506
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belém HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Liberal Belém HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147394
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belém SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Liberal Belém SD
-http://apkwuv.xyz:80/judeva/deva10ju/83649
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante Cocais FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante Cocais FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162720
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante Cocais HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante Cocais HD
-http://apkwuv.xyz:80/judeva/deva10ju/162783
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante São Luís FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162742
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante São Luís FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147397
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante São Luís HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís HD
-http://apkwuv.xyz:80/judeva/deva10ju/83498
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante São Luís HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147398
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB TV Mirante São Luís SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís SD
-http://apkwuv.xyz:80/judeva/deva10ju/152923
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Morena MS FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Morena MS FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162733
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Morena MS FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Morena MS FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147399
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Morena MS HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Morena MS HD
-http://apkwuv.xyz:80/judeva/deva10ju/83479
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Morena MS HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Morena MS HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147400
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Rio Sul FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Rio Sul FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162782
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Rio Sul HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Rio Sul HD
-http://apkwuv.xyz:80/judeva/deva10ju/83499
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Rio Sul SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Rio Sul SD
-http://apkwuv.xyz:80/judeva/deva10ju/147425
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Santa Cruz FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Santa Cruz FHD
-http://apkwuv.xyz:80/judeva/deva10ju/147426
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Santa Cruz HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Santa Cruz HD
-http://apkwuv.xyz:80/judeva/deva10ju/284945
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB TV Santa Cruz SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="Canais | Globos",GB TV Santa Cruz SD
-http://apkwuv.xyz:80/judeva/deva10ju/284944
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Sergipe Aracaju FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Sergipe Aracaju FHD
-http://apkwuv.xyz:80/judeva/deva10ju/83460
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Sergipe Aracaju HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Sergipe Aracaju HD
-http://apkwuv.xyz:80/judeva/deva10ju/147427
-#EXTINF:-1 tvg-id="Globo São Paulo" tvg-name="GB TV Sergipe Aracaju SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Sergipe Aracaju SD
-http://apkwuv.xyz:80/judeva/deva10ju/83775
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB TV Subae FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Subae FHD
-http://apkwuv.xyz:80/judeva/deva10ju/83546
-#EXTINF:-1 tvg-id="Globo São Paulo" tvg-name="GB TV Subae HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Subae HD
-http://apkwuv.xyz:80/judeva/deva10ju/162779
-#EXTINF:-1 tvg-id="Globo São Paulo" tvg-name="GB TV Subae SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Subae SD
-http://apkwuv.xyz:80/judeva/deva10ju/162750
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Bauru FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem Bauru FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162736
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Bauru HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem Bauru HD
-http://apkwuv.xyz:80/judeva/deva10ju/162737
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Bauru SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem Bauru SD
-http://apkwuv.xyz:80/judeva/deva10ju/83652
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Itapetininga HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem Itapetininga HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/162676
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem São José do Rio Preto FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem São José do Rio Preto FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162678
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem São José do Rio Preto HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem São José do Rio Preto HD
-http://apkwuv.xyz:80/judeva/deva10ju/162679
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem São José do Rio Preto SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem São José do Rio Preto SD
-http://apkwuv.xyz:80/judeva/deva10ju/162680
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tribuna Santos FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tribuna Santos FHD
-http://apkwuv.xyz:80/judeva/deva10ju/150151
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tribuna Santos HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tribuna Santos HD
-http://apkwuv.xyz:80/judeva/deva10ju/150150
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tribuna Santos SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tribuna Santos SD
-http://apkwuv.xyz:80/judeva/deva10ju/83655
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda S.J. dos Campos FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Vanguarda S.J. dos Campos FHD
-http://apkwuv.xyz:80/judeva/deva10ju/140740
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda S.J. dos Campos HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Vanguarda S.J. dos Campos HD
-http://apkwuv.xyz:80/judeva/deva10ju/140741
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda S.J. dos Campos SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Vanguarda S.J. dos Campos SD
-http://apkwuv.xyz:80/judeva/deva10ju/83656
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda Taubate FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Vanguarda Taubate FHD
-http://apkwuv.xyz:80/judeva/deva10ju/169522
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda Taubate HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Vanguarda Taubate HD
-http://apkwuv.xyz:80/judeva/deva10ju/169521
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda Taubate SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Vanguarda Taubate SD
-http://apkwuv.xyz:80/judeva/deva10ju/169520
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162741
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará FHD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147402
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará HD
-http://apkwuv.xyz:80/judeva/deva10ju/83507
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará HD [Alt]
-http://apkwuv.xyz:80/judeva/deva10ju/147403
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará SD
-http://apkwuv.xyz:80/judeva/deva10ju/83657
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="Globo Integração Divinópolis FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",Globo Integração Divinópolis FHD
-http://apkwuv.xyz:80/judeva/deva10ju/162717
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="Globo Integração Divinópolis HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",Globo Integração Divinópolis HD
-http://apkwuv.xyz:80/judeva/deva10ju/162675
-#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="Globo Integração DIvinópolis SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",Globo Integração DIvinópolis SD
+
 http://apkwuv.xyz:80/judeva/deva10ju/151322
 #EXTM3U url-tvg=" http://grade-de-TV FAX FECHADOS.xml "
  ############## TV FAX FECHADOS ############## ### 
@@ -1099,9 +697,9 @@ https://server101.shop/fox-sports2/tracks-v1a1/mono.m3u8?remote=168.227.218.11&t
 https://server101.shop/ufc2/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=c284e34e264f667116e3a1c4a643e033524f07ff-43c091c94957073b6046cdf66c51f09d-1691213468-1691209868
 #EXTINF:-1 tvg-id="" tvg-name="BandSports Ao Vivo"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png"group-title="TV FAX FECHADOS",BandSports Ao Vivo
 https://server101.shop/band-sports/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=1075602ae9541439ffd12f3b6d97dc70a9b07b57-dd464367f741aff2d190396b1a967b0c-1691213594-1691209994
-#EXTINF:-1 tvg-id="" tvg-name="ESPN"tvg-logo="https://images.vexels.com/content/1454/preview/vector-espn-logo-204e70.png"group-title="TV FAX FECHADOS",ESPN
+#EXTINF:-1 tvg-id="" tvg-name="ESPN"tvg-logo="https://media.giphy.com/headers/espn/XBcQa9tP3ROf.gif"group-title="TV FAX FECHADOS",ESPN
 https://server101.shop/espn-op2/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=75931d47b17413e9f4dd9010f2bd3e33413b686f-30ba2ba794890f617a008d2d828d3fd8-1691214169-1691210569
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNB4VpGE1NPa7VF9h-nVvAvvSdFisEowJuEWxMENK9jOLR8UpWzAbSVLkwOQxISDWNzZU&usqp=CAU"group-title="TV FAX FECHADOS",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2"tvg-logo="https://media1.giphy.com/media/aTZPoLYOMpEv5hlaxm/200w.gif?cid=82a1493b5fz3a3r7b3cb2su4f54xwwr1jpbofu7n2fhe0pwa&ep=v1_gifs_related&rid=200w.gif&ct=ts"group-title="TV FAX FECHADOS",ESPN 2
 https://server101.shop/espn2-op2/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=05a5ec46b6a0814bd349e512fa75190bd14acd46-0ad9d4bbc72d17b2a4dc6ff73c4d06ee-1691214057-1691210457
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 "tvg-logo="https://img2.gratispng.com/20180628/tce/kisspng-espn3-watchespn-espn-com-streaming-media-espn-3-5b350bd9611c16.8686168115302030973978.jpg"group-title="TV FAX FECHADOS",ESPN 3 
 https://server101.shop/espn3-op2/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=08538fad1f9aa529227938d02a8fc2a724555232-3897edb664f1c489c2c8db9e9aadb9bc-1691213919-1691210319
@@ -2706,17 +2304,17 @@ http://84.17.44.179:14635/
  ############## CANAIS | SPACE ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS | SPACE" group-title="
 
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - FHD
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/22/e0/b7/22e0b782-17ac-5be7-a3ec-6e97dfc95837/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CANAIS | SPACE",SPACE - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83580
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - FHD²
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD²" tvg-logo="https://play-lh.googleusercontent.com/ZXjpB_IUBlKIaWY22gkA-E8IR_x3Tb1kZFohKSbNSeSd5YSrND9w-8kIgqWkrSjKrH0" group-title="CANAIS | SPACE",SPACE - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83581
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - H265
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - H265" tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2021/08/Space.png" group-title="CANAIS | SPACE",SPACE - H265
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72580
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - HD
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD" tvg-logo="https://www.newslinereport.com/online/nota_space-renov-su-identidad-visual.jpg" group-title="CANAIS | SPACE",SPACE - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83578
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - HD²
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD²" tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="CANAIS | SPACE",SPACE - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83579
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - SD
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - SD" tvg-logo="https://i.ytimg.com/vi/VFzizEkscrQ/mqdefault.jpg" group-title="CANAIS | SPACE",SPACE - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83577
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83581
@@ -3617,7 +3215,6 @@ https://tvcanais.xyz/espn4/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id=" iddocanaldeCanais FOX SPORTS 2" group-title="
 
 
-https://server101.shop/sportv3/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=f9fd5b5a4c23290677d93c5ed5b53ac632629cda-0ec3f08cfb9df5c0ba8853f42ca27cf0-1691468727-1691465127
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais FOX SPORTS 2",FOX Sports 2 SD
 https://server101.shop/fox-sports2/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=5f768ffdb90325ae2de8d0391485445485fc25b7-c133852f86ec9d141a27748b416d5428-1691465426-1691458226
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 4K" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 4K
@@ -4085,8 +3682,6 @@ https://ia802707.us.archive.org/15/items/uma-sereia-em-paris-filmes-tv-fax-hd/Um
 https://ia802709.us.archive.org/23/items/um-conto-de-sereia-tv-fax/Um%20Conto%20de%20Sereia%20%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2023)"tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2017/09/pequena-sereia-indo-embora.gif"group-title="FILMES TV FAX filhos",A Pequena Sereia (2023)
 https://ia902706.us.archive.org/34/items/a-pequena-sereia-2023-the-little-mermaid-tv-fax/A%20Pequena%20Sereia%202023%20-%20The%20Little%20Mermaid%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cinderela 2021"tvg-logo="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-da-cinderela-10.gif"group-title="FILMES TV FAX filhos",Cinderela 2021
-https://ia802608.us.archive.org/1/items/cinderela-2021-filmes-tv-fax-hd/Cinderela%20%282021%29%20Filmes%20TV%20FAX%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cinderela E O Príncipe Secreto "tvg-logo="https://2.bp.blogspot.com/-ylvOY-24-i0/U9b9rvNzPQI/AAAAAAAAKEM/rWzHbXkJ_DA/s1600/Cinderela+7.gif"group-title="FILMES TV FAX filhos",Cinderela E O Príncipe Secreto
 https://ia802707.us.archive.org/6/items/cinderela-e-o-principe-secreto-tv-fax/Cinderela%20e%20o%20Pr%C3%ADncipe%20Secreto%20%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Princesa E O Dragão"tvg-logo="https://musicart.xboxlive.com/7/8d145100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"group-title="FILMES TV FAX filhos",A Princesa Encantada O Reino Da Música
@@ -4160,8 +3755,7 @@ https://play.prod.gcp.vix.services/car-patrol_pt/car-patrol_pt_1-1/play_v1_hls_1
 https://ia802703.us.archive.org/13/items/miraculous-world-xangai-a-lenda-de-lady-dragon-tv-fax/Miraculous%20World%20%20Xangai%2C%20a%20Lenda%20de%20Lady%20Dragon%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Monster High"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbi9uqk5KH7g3y6CSZnLUYy2NDZDU8fkCRYe2H2qTi3N5o0eeh-y6nDYpdNKhfbwTxuF4&usqp=CAU"group-title="FILMES TV FAX filhos",Monster High
 https://ia802604.us.archive.org/4/items/monster-high-filmes-tv-fax-hd/Monster%20HighFilmes%20TV%20FAX%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="My Little Pony Nova Geração"tvg-logo="https://i.ytimg.com/vi/37-7g9EQS9c/maxresdefault.jpg"group-title="FILMES TV FAX filhos",My Little Pony Nova Geração
-https://ia801403.us.archive.org/35/items/my-little-pony-nova-geracao-tv-fax/My%20Little%20Pony%20Nova%20Gera%C3%A7%C3%A3o%20TV%20FAX%20.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="O Cão EA Raposa"tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/94/38/82/20324908.jpg"group-title="FILMES TV FAX filhos",O Cão EA Raposa
 https://ia802704.us.archive.org/14/items/o-cao-e-a-raposa-filmes-tv-fax-hd/O%20C%C3%A3o%20e%20a%20Raposa%20Filmes%20TV%20FAX%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Menina EO Porquinho"tvg-logo="https://i.ytimg.com/vi/Pc6tZGP3PIY/maxresdefault.jpghttps://media.fstatic.com/SS-1hovqYTasqyW7SzoPmyJuBeg=/322x478/smart/filters:format(webp)/media/movies/covers/2012/06/b0ca9f322026086d33d3e1a9bbbc0107.jpg"group-title="FILMES TV FAX filhos",A Menina EO Porquinho
@@ -4269,8 +3863,6 @@ https://ia902704.us.archive.org/2/items/vamos-consertar-o-mundo-tv-fax/Vamos%20C
 https://ia802700.us.archive.org/26/items/dungeons-e-dragons-honra-entre-rebeldes-tv-fax/Dungeons%20E%20Dragons%20Honra%20Entre%20Rebeldes%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Até Os Ossos"tvg-logo="https://diariodecuritiba.com/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-29-at-18.34.02.jpeg"group-title="FILMES TV FAX filhos",Até Os Ossos
 https://ia802708.us.archive.org/35/items/ate-os-ossos-tv-fax/At%C3%A9%20os%20Ossos%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Dinossauro"tvg-logo="https://m.media-amazon.com/images/I/51vmksRXz+L._AC_UF1000,1000_QL80_.jpgg"group-title="FILMES TV FAX filhos",O Bom Dinossauro
-https://ia902701.us.archive.org/7/items/o-bom-dinossauro-tv-fax/O%20Bom%20Dinossauro%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Bom Gigante Amigo"tvg-logo="https://br.web.img3.acsta.net/pictures/16/07/05/15/22/448228.jpg"group-title="FILMES TV FAX filhos",O Bom Gigante Amigo
 https://ia902703.us.archive.org/3/items/o-bom-gigante-amigo-tv-fax/O%20Bom%20Gigante%20Amigo%20TV%20%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Flora E Ulysses"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-88FSaNvvZIa1xZdyhqFRFzrECsiZt6tHTA&usqp=CAU"group-title="FILMES TV FAX filhos",Flora E Ulysses 
@@ -4291,16 +3883,6 @@ https://ia802700.us.archive.org/28/items/o-reino-gelado-3-fogo-e-gelo-tv-fax/O%2
 https://ia802707.us.archive.org/30/items/o-resgate-de-ruby-tv-fax/O%20Resgate%20de%20Ruby%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Reino Gelado 2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReIl-SHGywTn2Bk-VNDZOGiFUJWkRb3Rl7Ton3s7ywG8RHTGOsaiWGz3rU3x6VK6pl2hY&usqp=CAU"group-title="FILMES TV FAX filhos",O Reino Gelado 2
 https://ia802706.us.archive.org/20/items/o-reino-gelado-2-tv-fax/O%20Reino%20Gelado%202%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAArH1lVJqU_0f88kgIGcUgFG8Gd1-m2IjSmg3ssoLCy9-95n81ww2xP5b4xzC-TmMei0&usqp=CAU"group-title="FILMES TV FAX filhos",Super Mario Bros
-http://7go.xyz:8080/movie/zogbi11/982451290/312675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legiao dos Super Herois"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKzeeAbIgu5a0Aoi-4alvSZ4n1DOUsDM2Dg&usqp=CAU"group-title="FILMES TV FAX filhos",Legiao dos Super Herois
-http://7go.xyz:8080/movie/zogbi11/982451290/311848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peter Pan e Wendy"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabDz6qeb61ibQSpfBLzj5gAAwY_2bbPG53T5WmTUlweOpSOGUacxMtYQXxR2HyvBT4KM&usqp=CAU"group-title="FILMES TV FAX filhos",Peter Pan e Wendy
-http://7go.xyz:8080/movie/zogbi11/982451290/311821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Elefanta do Magico"tvg-logo="https://i0.wp.com/teamcomics.com.br/wp-content/uploads/2023/03/A-Elefanta-do-Magico-9.jpg?fit=1170%2C658&ssl=1"group-title="FILMES TV FAX filhos",A Elefanta do Magico
-http://7go.xyz:8080/movie/zogbi11/982451290/303951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Dinossauro"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt9I-zSX31FyV4IB6Bhc9OmOB22U0WSpjjw4WBQQrrCW1nBLboTm-sDzlIq-VP1AV5JY8&usqp=CAU"group-title="FILMES TV FAX filhos",O Bom Dinossauro
-http://7go.xyz:8080/movie/zogbi11/982451290/311846.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lilo, Lilo, Crocodilo"tvg-logo="https://image.tmdb.org/t/p/w185/v4cqxZz2mHS0iyXvladOVltjJLQ.jpg"group-title="FILMES TV FAX filhos",Lilo, Lilo, Crocodilo
 https://seig.tv/16/1/663e764362fbc539bad205facfdcf70d/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Uma Floresta Muito Louca"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHFjVnwq-K3w8Ur-qVdszINjjgocT5uISe7VSM7_kFfCuhMMroyrdJ5W6ig01dU_Tcx4o&usqp=CAU"group-title="FILMES TV FAX filhos",Uma Floresta Muito Louca
@@ -4458,8 +4040,6 @@ https://ia902704.us.archive.org/16/items/encontro-marcado-tv-fax/Encontro%20Marc
 https://ia802709.us.archive.org/32/items/covil-de-ladroes-tv-fax/Covil%20de%20Ladr%C3%B5es%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Esquadrão Tigre"tvg-logo="https://media.giphy.com/media/hrKmYSfwve7sfbgN7N/giphy.gif"group-title="FILMES | TV FAX",Esquadrão Tigre
 https://ia902708.us.archive.org/7/items/esquadrao-tigre-tv-fax/Esquadr%C3%A3o%20Tigre%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Espécies Em Perigo"tvg-logo="https://cdn.fstatic.com/media/movies/covers/2021/04/318725_background.jpg"group-title="FILMES | TV FAX",Espécies Em Perigo
-https://ia802707.us.archive.org/15/items/especies-em-perigo-tv-fax/Esp%C3%A9cies%20em%20Perigo%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Hellboy"tvg-logo="https://media.tenor.com/q79MYddi13UAAAAd/hellboy-ouch.gif"group-title="FILMES | TV FAX",Hellboy
 https://ia902708.us.archive.org/26/items/hellboy-tv-fax/Hellboy%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Guerreiro Da Escuridão"tvg-logo="https://i.ytimg.com/vi/zA2Kd613zz8/maxresdefault.jpg"group-title="FILMES | TV FAX",Guerreiro Da Escuridão
@@ -4502,8 +4082,6 @@ https://ia902701.us.archive.org/19/items/os-farofeiros-tv-fax/Os%20Farofeiros%20
 https://ia902709.us.archive.org/1/items/os-meninos-que-enganavam-nazistas-tv-fax/Os%20Meninos%20Que%20Enganavam%20Nazistas%20%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Operação Supletivo Agora Vai"tvg-logo="https://cinepop.com.br/wp-content/uploads/2018/04/Night-School1.jpg"group-title="FILMES | TV FAX",Operação Supletivo Agora Vai 
 https://ia902707.us.archive.org/32/items/operacao-supletivo-agora-vai-tv-fax/Opera%C3%A7%C3%A3o%20Supletivo%20Agora%20Vai%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paulo Apostolo De Cristo"tvg-logo="https://m.media-amazon.com/images/I/61CUYw3LANL._AC_UF894,1000_QL80_.jpg"group-title="FILMES | TV FAX",Paulo Apostolo De Cristo
-https://ia802707.us.archive.org/34/items/paulo-apostolo-de-cristo-tv-fax/Paulo%20Apostolo%20de%20Cristo%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Reino Ashin Do Norte"tvg-logo="https://www.themoviedb.org/t/p/w500/tgCzWB2UhpQ4Ce8MbGrMMXqWe2K.jpg"group-title="FILMES | TV FAX",Reino Ashin Do Norte
 https://ia902702.us.archive.org/0/items/reino-ashin-do-norte-tv-fax/Reino%20Ashin%20do%20Norte%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Thor Ragnarok"tvg-logo="https://imagem.natelinha.uol.com.br/original/thor_6a114250201597847049e8a1b035a0fac54c73a0.jpeg"group-title="FILMES | TV FAX",Thor Ragnarok
@@ -4532,10 +4110,6 @@ https://ia902709.us.archive.org/25/items/tomb-raider-a-origem-tv-fax/Tomb%20Raid
 https://ia902700.us.archive.org/7/items/o-que-ficou-para-tras-tv-fax/O%20Que%20Ficou%20para%20Tr%C3%A1s%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",O Primeiro Homem"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgkb9o_sxV4KozE-QIf5qDzWugsLTgI6FcJQ0agqgOA4agqC1pbyffVyGIP-TUGp1TmRY&usqp=CAU"group-title="FILMES | TV FAX",O Primeiro Homem
 https://ia902709.us.archive.org/14/items/o-primeiro-homem-tv-fax/O%20Primeiro%20Homem%20%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",O Poder Do Perdão "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Jm5Gone2bLL3NSl7D8PRQvpcRuBpKcCNn8wLs7cfFP-WHmfCZuMx2_dkz1HtWrT3orc&usqp=CAU"group-title="FILMES | TV FAX",O Poder Do Perdão 
-https://ia802705.us.archive.org/30/items/o-poder-do-perdao-tv-fax/O%20Poder%20do%20Perd%C3%A3o%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",O Perdoado"tvg-logo="https://d3ugyf2ht6aenh.cloudfront.net/stores/001/083/509/products/o-perdoado1-9b715002cd2dab451916712163200093-640-0.webp"group-title="FILMES | TV FAX",O Perdoado
-https://ia902709.us.archive.org/10/items/o-perdoado-tv-fax/O%20Perdoado%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Pior Vizinho Do Mundo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToAGts4-RFYY4KILPo7Qtr-oU39KghSHlfog&usqp=CAU"group-title="FILMES | TV FAX",O Pior Vizinho Do Mundo
 https://ia902701.us.archive.org/31/items/o-pior-vizinho-do-mundo-tv-fax/O%20Pior%20Vizinho%20do%20Mundo%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",O Mundo Mágico De Rufus"tvg-logo="https://us1-prod-images.disco-api.com/2023/03/20/f359cd6e-e31b-3731-a29f-749516077d60.jpeg?bf=0&f=jpg&p=true&q=70&w=1920"group-title="FILMES | TV FAX",O Mundo Mágico De Rufus
@@ -4544,22 +4118,12 @@ https://ia802709.us.archive.org/32/items/o-mundo-magico-de-rufus-tv-fax/O%20Mund
 https://ia802704.us.archive.org/18/items/o-milagre-tv-fax/O%20Milagre%20%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Uma Chance Para Recomeçar"tvg-logo="https://m.media-amazon.com/images/I/51ABa+dEZ0L.jpg"group-title="FILMES | TV FAX",Uma Chance Para Recomeçar
 https://ia902703.us.archive.org/16/items/uma-chance-para-recomecar-tv-fax/Uma%20Chance%20para%20Recome%C3%A7ar%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Uma Questão De Fé "tvg-logo="https://blog.univervideo.com/wp-content/uploads/2020/05/thumb-uma-questao-de-fe-2.jpg"group-title="FILMES | TV FAX",Uma Questão De Fé 
-https://ia802709.us.archive.org/23/items/uma-questao-de-fe-dublado-tv-fax/Uma%20Quest%C3%A3o%20de%20F%C3%A9%20Dublado%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Unidos Pelo Destino"tvg-logo="https://i.ytimg.com/vi/CSGR_4InkQ0/maxresdefault.jpg"group-title="FILMES | TV FAX",Unidos Pelo Destino
 https://ia902703.us.archive.org/10/items/unidos-pelo-destino-tv-fax/Unidos%20pelo%20Destino%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",O Milagre De Marcelino Pão E Vinho"tvg-logo="https://d3ugyf2ht6aenh.cloudfront.net/stores/842/420/products/dvd-marcelino-po-e-vinho-1954-ladislao-vajda-d_nq_np_7230-mlb5187097210_102013-f1-e612c15bedfef4abe715435173768030-640-0.jpg"group-title="FILMES | TV FAX",O Milagre De Marcelino Pão E Vinho
-https://ia902702.us.archive.org/25/items/o-milagre-de-marcelino-pao-e-vinho-tv-fax/O%20Milagre%20de%20Marcelino%20P%C3%A3o%20e%20Vinho%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",A Ú LTIMA CAÇ ADORA"tvg-logo="https://i.ytimg.com/vi/t5jTZaocJKE/maxresdefault.jpg"group-title="FILMES | TV FAX",A Ú LTIMA CAÇ ADORA
 https://ia902705.us.archive.org/34/items/a-u-ltima-cac-adora-tv-fax/A%20%C3%9ALTIMA%20CA%C3%87ADORA%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",O PRIMEIRO DA CLASSE"tvg-logo="https://i.ytimg.com/vi/lXDuZt62NTE/sddefault.jpg"group-title="FILMES | TV FAX",O PRIMEIRO DA CLASSE
 https://ia802701.us.archive.org/26/items/o-primeiro-da-classe-tv-fax/O%20PRIMEIRO%20DA%20CLASSE%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",O Caminho Para A Eternidade "tvg-logo="https://i4.ytimg.com/vi/wrxoaEel9Sc/default.jpg"group-title="FILMES | TV FAX",O Caminho Para A Eternidade 
-https://ia802705.us.archive.org/11/items/o-caminho-para-a-eternidade-tv-fax/O%20Caminho%20Para%20a%20EternidadeTV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Crescimento Um Comovente Testemunho De Fé"tvg-logo="https://i.ytimg.com/vi/YI_a-s0DIN4/hqdefault.jpg?v=63c47837"group-title="FILMES | TV FAX",Crescimento Um Comovente Testemunho De Fé
-https://ia902700.us.archive.org/22/items/crescimento-um-comovente-testemunho-de-fe-tv-fax/Crescimento%20Um%20comovente%20testemunho%20de%20f%C3%A9%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Uma Lição De Amor"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13c961daf214d266054023cb2d5fbc8c4a17b19bd98c4c7a62820084850f2515._RI_TTW_.jpg"group-title="FILMES | TV FAX",Uma Lição De Amor
-https://ia802709.us.archive.org/6/items/uma-licao-de-amor-tv-fax/Uma%20Li%C3%A7%C3%A3o%20de%20Amor%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Midsommar O Mal Não Espera A Noite"tvg-logo="https://www.atoupeira.com.br/wp-content/uploads/2019/04/P%C3%B4ster-Nacional-Midsommar.png"group-title="FILMES | TV FAX",Midsommar O Mal Não Espera A Noite
 https://ia802708.us.archive.org/32/items/midsommar-o-mal-nao-espera-a-noite-tv-fax/Midsommar%20O%20Mal%20N%C3%A3o%20Espera%20a%20Noite%20%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Meu Nome É Chihiro"tvg-logo="https://i.ytimg.com/vi/nlYIyky1GFA/maxresdefault.jpg"group-title="FILMES | TV FAX",Meu Nome É Chihiro
@@ -5011,9 +4575,9 @@ https://ia802701.us.archive.org/18/items/par-ou-impar-terence-hill-e-bud-spencer
 ############## FILME TV FAX B HISTORIA REAL ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX B HISTORIA REAL" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Entrevista Com Deus"tvg-logo="https://i.ytimg.com/vi/zRor0Go2JEM/mqdefault.jpg"group-title="FILME TV FAX B HISTORIA REA",Entrevista Com Deus
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista Com Deus"tvg-logo="https://imgsapp2.uai.com.br/app/noticia_133890394703/2018/11/15/237357/20181114180453945442o.jpg"group-title="FILME TV FAX B HISTORIA REAL",Entrevista Com Deus
 https://ia600509.us.archive.org/8/items/entrevista-com-deus-tv-fax/Entrevista%20com%20Deus%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Caminho Para A Eternidade"tvg-logo="https://ottvsimg.ottvs.com.br/cov/grf.150592/0150592_335.jpg"group-title="FILME TV FAX B HISTORIA REA",O Caminho Para A Eternidade
+#EXTINF:-1 tvg-id="" tvg-name="O Caminho Para A Eternidade"tvg-logo="https://i.ytimg.com/vi/OaZ_TrtISb8/maxresdefault.jpg"group-title="FILME TV FAX B HISTORIA REAL",O Caminho Para A Eternidade
 https://ia902705.us.archive.org/11/items/o-caminho-para-a-eternidade-tv-fax/O%20Caminho%20Para%20a%20EternidadeTV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SEPARADOS PELO DESTINO"tvg-logo="https://i.ytimg.com/vi/XgAmxjZPo4A/sddefault.jpg?v=61bdf8aa"group-title="FILME TV FAX B HISTORIA REAL",SEPARADOS PELO DESTINO
 https://ia902709.us.archive.org/5/items/separados-pelo-destino-b-tv-fax/SEPARADOS%20PELO%20DESTINO%20B%20TV%20FAX.mp4
@@ -5057,6 +4621,23 @@ https://ia902705.us.archive.org/8/items/e-seu-nome-e-jonas-tv-fax/E%20Seu%20Nome
 https://ia902702.us.archive.org/29/items/com-deus-no-caminho-tv-fax/Com%20Deus%20no%20Caminho%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SEM EVIDÊ NCIAS Drama Baseado Em Fatos Reais"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZgAAaT1sVbKtU5-TyM612EPeMUP_V6tl0toA9UElZuuXjh9dRL-e_-uAVqFGVgQQctA&usqp=CAU"group-title="FILME TV FAX B HISTORIA REAL",SEM EVIDÊ NCIAS Drama Baseado Em Fatos Reais
 https://ia902706.us.archive.org/27/items/sem-evide-ncias-drama-baseado-em-fatos-reais-tv-fax/SEM%20EVID%C3%8ANCIAS%20Drama%20Baseado%20em%20fatos%20reais%20TV%20FAX%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Paulo Apostolo De Cristo"tvg-logo="https://m.media-amazon.com/images/I/61CUYw3LANL._AC_UF894,1000_QL80_.jpg"group-title="FILME TV FAX B HISTORIA REAL",Paulo Apostolo De Cristo
+https://ia802707.us.archive.org/34/items/paulo-apostolo-de-cristo-tv-fax/Paulo%20Apostolo%20de%20Cristo%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Poder Do Perdão "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Jm5Gone2bLL3NSl7D8PRQvpcRuBpKcCNn8wLs7cfFP-WHmfCZuMx2_dkz1HtWrT3orc&usqp=CAU"group-title="FILME TV FAX B HISTORIA REAL",O Poder Do Perdão 
+https://ia802705.us.archive.org/30/items/o-poder-do-perdao-tv-fax/O%20Poder%20do%20Perd%C3%A3o%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Perdoado"tvg-logo="https://d3ugyf2ht6aenh.cloudfront.net/stores/001/083/509/products/o-perdoado1-9b715002cd2dab451916712163200093-640-0.webp"group-title="FILME TV FAX B HISTORIA REAL",O Perdoado
+https://ia902709.us.archive.org/10/items/o-perdoado-tv-fax/O%20Perdoado%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Milagre De Marcelino Pão E Vinho"tvg-logo="https://d3ugyf2ht6aenh.cloudfront.net/stores/842/420/products/dvd-marcelino-po-e-vinho-1954-ladislao-vajda-d_nq_np_7230-mlb5187097210_102013-f1-e612c15bedfef4abe715435173768030-640-0.jpg"group-title="FILME TV FAX B HISTORIA REAL",O Milagre De Marcelino Pão E Vinho
+https://ia902702.us.archive.org/25/items/o-milagre-de-marcelino-pao-e-vinho-tv-fax/O%20Milagre%20de%20Marcelino%20P%C3%A3o%20e%20Vinho%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Crescimento Um Comovente Testemunho De Fé"tvg-logo="https://i.ytimg.com/vi/YI_a-s0DIN4/hqdefault.jpg?v=63c47837"group-title="FILME TV FAX B HISTORIA REAL",Crescimento Um Comovente Testemunho De Fé
+https://ia902700.us.archive.org/22/items/crescimento-um-comovente-testemunho-de-fe-tv-fax/Crescimento%20Um%20comovente%20testemunho%20de%20f%C3%A9%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Caminho Para A Eternidade "tvg-logo="https://i4.ytimg.com/vi/wrxoaEel9Sc/default.jpg"group-title="FILME TV FAX B HISTORIA REAL",O Caminho Para A Eternidade 
+https://ia802705.us.archive.org/11/items/o-caminho-para-a-eternidade-tv-fax/O%20Caminho%20Para%20a%20EternidadeTV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Uma Questão De Fé "tvg-logo="https://blog.univervideo.com/wp-content/uploads/2020/05/thumb-uma-questao-de-fe-2.jpg"group-title="FILME TV FAX B HISTORIA REAL",Uma Questão De Fé 
+https://ia802709.us.archive.org/23/items/uma-questao-de-fe-dublado-tv-fax/Uma%20Quest%C3%A3o%20de%20F%C3%A9%20Dublado%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Uma Lição De Amor"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13c961daf214d266054023cb2d5fbc8c4a17b19bd98c4c7a62820084850f2515._RI_TTW_.jpg"group-title="FILMES | TV FAX",Uma Lição De Amor
+https://ia802709.us.archive.org/6/items/uma-licao-de-amor-tv-fax/Uma%20Li%C3%A7%C3%A3o%20de%20Amor%20TV%20FAX%20.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILME TV FAX AUTISMO.xml"
 ############## FILME TV FAX AUTISMO ################# 
@@ -5365,8 +4946,7 @@ http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776149.mp4
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776150.mp4
 #EXTINF:-1 tvg-name="The Girl Who Escaped: The Kara Robinson Story [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg" group-title="Filmes | Lançamentos 2023",The Girl Who Escaped: The Kara Robinson Story [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776191.mp4
-#EXTINF:-1 tvg-name="À la belle étoile [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAhOA2t1ZnfpbSn9981F1HfwucH.jpg" group-title="Filmes | Lançamentos 2023",À la belle étoile [CINEMA] (2023)
-http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776193.mp4
+
 #EXTINF:-1 tvg-name="Lollapalooza Brasil 2023 (2023)" tvg-logo="https://i.ibb.co/VxgYbL5/20230308145041-20221103175855-20220804130610-lolla-1-1.jpg" group-title="Filmes | Lançamentos 2023",Lollapalooza Brasil 2023 (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775483.mp4
 #EXTINF:-1 tvg-name="The Paramedic Who Stalked Me [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5o0Df9u4wboUCPgXTZpdNko92G.jpg" group-title="Filmes | Lançamentos 2023",The Paramedic Who Stalked Me [CINEMA] (2023)
@@ -5391,14 +4971,12 @@ http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775024.mp4
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775027.mp4
 #EXTINF:-1 tvg-name="Les Choses simples [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm4D555GnwAuOQHipk7ENHUcXAi.jpg" group-title="Filmes | Lançamentos 2023",Les Choses simples [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775167.mp4
-#EXTINF:-1 tvg-name="Berbalas Kejam [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAURXrTu3UdefEUqpqMpBU33Iq9.jpg" group-title="Filmes | Lançamentos 2023",Berbalas Kejam [CINEMA] (2023)
-http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775168.mp4
+
 #EXTINF:-1 tvg-name="Hunt Her, Kill Her [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p06MGXRHJhbFkMu3ey2mGxqWtfU.jpg" group-title="Filmes | Lançamentos 2023",Hunt Her, Kill Her [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775169.mp4
 #EXTINF:-1 tvg-name="Black Girl Missing [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4UE6GTjuinT4zDrBxSFRo0wbjt.jpg" group-title="Filmes | Lançamentos 2023",Black Girl Missing [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775171.mp4
-#EXTINF:-1 tvg-name="Battle for Saipan [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWLR3s0EpqZYXNXXHVH0GCu6Gru.jpg" group-title="Filmes | Lançamentos 2023",Battle for Saipan [CINEMA] (2023)
-http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775172.mp4
+
 #EXTINF:-1 tvg-name="Ursinho Pooh: Sangue e Mel [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCdzPK6fJgQL0FeKeYkciZzjyOL.jpg" group-title="Filmes | Lançamentos 2023",Ursinho Pooh: Sangue e Mel [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775174.mp4
 #EXTINF:-1 tvg-name="O Convento [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQTRmPzKAdLodknnPVtImm6FWPZ.jpg" group-title="Filmes | Lançamentos 2023",O Convento [CINEMA] (2023)
