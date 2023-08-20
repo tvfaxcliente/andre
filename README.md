@@ -185,7 +185,7 @@ http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/141025
 http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/147732
 #EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola SD" tvg-logo="https://i.imgur.com/ZSusL7O.png" group-title="Canais | Abertos",TV Escola SD
 http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/165443
-#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar SD" tvg-logo="https://i.imgur.com/BhQrdsu.png" group-title="Canais | Religiosos",TV Evangelizar SD
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar SD" tvg-logo="https://i.imgur.com/BhQrdsu.png" group-title="Canais | Abertos",TV Evangelizar SD
 http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/83673
 #EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta FHD
 http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/151052
@@ -530,11 +530,11 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/151036
 http://apkwuv.xyz:80/cristina2021/graniptv2005/162663
 #EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP FHD [H265]" tvg-logo="https://3.bp.blogspot.com/-UgZodyppjDM/TuuBlvuXEbI/AAAAAAAAHNo/bnMRXMIIj-Y/s1600/hh.gif" group-title="CANAIS RECORD",Record SP FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83430
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP HD
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS RECORD",Record SP HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83468
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP HD [Alt]
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS RECORD",Record SP HD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147658
-#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record SP SD
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record SP SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS RECORD",Record SP SD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83613
 #EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record Interior SP FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS RECORD",Record Interior SP FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82876
@@ -1310,8 +1310,6 @@ https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGramado.br" tvg-logo="https://i.imgur.com/5558bMI.png" group-title="CANAIS no Brasil",TV Gramado (720p)
 https://video01.kshost.com.br:4443/tv4477/tv4477/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="CANAIS no Brasil",TV Grande Natal
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="TVGraoPara.br" tvg-logo="https://i.imgur.com/1drg0E9.png" group-title="CANAIS no Brasil",TV Grao Pará (720p)
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGuara.br" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="CANAIS no Brasil",TV Guará (720p) [Not 24/7]
@@ -3210,12 +3208,11 @@ https://tvcanais.xyz/espn4/tracks-v1/index.fmp4.m3u8?token=77b6011351625edf73b5c
 #EXTINF:-1 tvg-id="Example" tvg-name="espn 4" tvg-logo="https://www.am.com.mx/u/fotografias/fotosnoticias/2021/12/1/52278.jpg" group-title="CANAIS | ESPORTES espn extra",espn 4
 https://tvcanais.xyz/espn4/tracks-v1/index.fmp4.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-Canais FOX SPORTS 2.xml "
- ############## Canais FOX SPORTS 2 ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais FOX SPORTS 2" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais | ESPN/Fox Sports.xml "
+ ############## Canais | ESPN/Fox Sports ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | ESPN/Fox Sports" group-title="
 
-
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais FOX SPORTS 2",FOX Sports 2 SD
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 SD
 https://server101.shop/fox-sports2/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=5f768ffdb90325ae2de8d0391485445485fc25b7-c133852f86ec9d141a27748b416d5428-1691465426-1691458226
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 4K" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 4K
 http://apkwuv.xyz:80/cristina2021/graniptv2005/151046
@@ -3231,6 +3228,11 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83216
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147567
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 SD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83561
+
+#EXTM3U url-tvg=" http://grade-de-Canais FOX SPORTS 2.xml "
+ ############## Canais FOX SPORTS 2 ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais FOX SPORTS 2" group-title="
+
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - 4K
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72584
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - FHD
@@ -3645,8 +3647,6 @@ https://ia902702.us.archive.org/5/items/mazzaropi-a-banda-das-velhas-virgens-197
 https://ia902702.us.archive.org/5/items/mazzaropi-jeca-contra-o-capeta-tv-fax/Mazzaropi%20-%20Jeca%20Contra%20o%20Capeta%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mazzaropi Betão Ronca Ferro" tvg-logo="https://media.tenor.com/3ORoq51cINkAAAAd/mazzaropi-jeca-tatu.gif" group-title="Filme Mazzaropi",Mazzaropi Betão Ronca Ferro 
 https://ia902702.us.archive.org/11/items/mazzaropi-betao-ronca-ferro-tv-fax/Mazzaropi%20-%20Bet%C3%A3o%20Ronca%20Ferro%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi As Aventuras De Pedro Malasartes 1960" tvg-logo="https://thumbs.gfycat.com/LikableSaneHarvestmouse-size_restricted.gif" group-title="Filme Mazzaropi",Mazzaropi As Aventuras De Pedro Malasartes 1960
-https://ia802709.us.archive.org/17/items/mazzaropi-as-aventuras-de-pedro-malasartes-1960-tv-fax/Mazzaropi%20%20As%20Aventuras%20de%20Pedro%20Malasartes%201960%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mazzaropi O Grande Xerife" tvg-logo="https://thumbs.gfycat.com/AmbitiousParallelFairybluebird-size_restricted.gif" group-title="Filme Mazzaropi",Mazzaropi O Grande Xerife
 https://ia802706.us.archive.org/11/items/mazzaropi-o-grande-xerife-tv-fax/Mazzaropi%20-%20O%20Grande%20Xerife%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mazzaropi Jeca Tatu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTykPlZEyhBf7t-k78FK9qqFlXuUgeP_JsMCaF-8Wictyq3q02Npbv10iWJ6OtRr9afWkk&usqp=CAU" group-title="Filme Mazzaropi",Mazzaropi Jeca Tatu
@@ -3970,6 +3970,8 @@ https://ia902704.us.archive.org/19/items/ruby-marinho-monstro-adolescente-tv-fax
 ############## FILMES | TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | TV FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name=",Flamin Hot O Sabor que Mudou a História TV FAX"tvg-logo="https://www.arrobanerd.com.br/wp-content/uploads/2023/06/flaminhot-star-plus-critica.jpg"group-title="FILMES | TV FAX",Flamin Hot O Sabor que Mudou a História TV FAX
+https://ia800509.us.archive.org/23/items/flamin-hot-o-sabor-que-mudou-a-historia-tv-fax/Flamin%20Hot%20O%20Sabor%20que%20Mudou%20a%20Hist%C3%B3ria%20TV%20FAX.mp4?cnt=0
 #EXTINF:-1 tvg-id="" tvg-name=",JACKIE CHAN ESPIÃ O POR ACIDENTE 2019"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_781084-MLB46950635784_082021-W.jpg"group-title="FILMES | TV FAX",JACKIE CHAN ESPIÃ O POR ACIDENTE 2019
 https://ia902708.us.archive.org/30/items/jackie-chan-espia-o-por-acidente-2019-tv-fax/JACKIE%20CHAN%20ESPI%C3%83O%20POR%20ACIDENTE%202019%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",A Colônia"tvg-logo="https://i.ytimg.com/vi/K0QJO22OB-4/maxresdefault.jpg"group-title="FILMES | TV FAX",A Colônia
@@ -4533,6 +4535,8 @@ https://play.prod.gcp.vix.services/city-by-the-sea_pt/city-by-the-sea_pt_1-1/pla
 https://play.prod.gcp.vix.services/pendekar-tongkat-emas_pt/pendekar-tongkat-emas_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fim Da Estrada"tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2022/09/Fim-da-Estrada-Netflix-final.jpeg?fit=665%2C374&ssl=1"group-title="FILMES | TV FAX",Fim Da Estrada
 https://ia902704.us.archive.org/1/items/fim-da-estrada-tv-fax/Fim%20da%20Estrada%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança Pelo Passado"tvg-logo="https://31.media.tumblr.com/tumblr_m9l4y2mqeO1rn2vtqo1_500.gif"group-title="FILMES | TV FAX",Vingança Pelo Passado
+https://ia802309.us.archive.org/2/items/assistir-vinganca-pelo-passado-tv-fax/Assistir%20Vingan%C3%A7a%20Pelo%20Passado%20TV%20FAX%20.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILME INDIANO TV FAX.xml"
 ############## FILME INDIANO TV FAX ################# 
@@ -4575,6 +4579,8 @@ https://ia802701.us.archive.org/18/items/par-ou-impar-terence-hill-e-bud-spencer
 ############## FILME TV FAX B HISTORIA REAL ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX B HISTORIA REAL" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Graça e Perdão"tvg-logo="https://www.justwatch.com/images/backdrop/93287667/s640/graca-e-perdao"group-title="FILME TV FAX B HISTORIA REAL",Graça e Perdão
+https://seig.tv/19/1/31d59c5c4f8b1aa97706d0f40a8dbc49/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Entrevista Com Deus"tvg-logo="https://imgsapp2.uai.com.br/app/noticia_133890394703/2018/11/15/237357/20181114180453945442o.jpg"group-title="FILME TV FAX B HISTORIA REAL",Entrevista Com Deus
 https://ia600509.us.archive.org/8/items/entrevista-com-deus-tv-fax/Entrevista%20com%20Deus%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Caminho Para A Eternidade"tvg-logo="https://i.ytimg.com/vi/OaZ_TrtISb8/maxresdefault.jpg"group-title="FILME TV FAX B HISTORIA REAL",O Caminho Para A Eternidade
@@ -4621,7 +4627,6 @@ https://ia902705.us.archive.org/8/items/e-seu-nome-e-jonas-tv-fax/E%20Seu%20Nome
 https://ia902702.us.archive.org/29/items/com-deus-no-caminho-tv-fax/Com%20Deus%20no%20Caminho%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SEM EVIDÊ NCIAS Drama Baseado Em Fatos Reais"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZgAAaT1sVbKtU5-TyM612EPeMUP_V6tl0toA9UElZuuXjh9dRL-e_-uAVqFGVgQQctA&usqp=CAU"group-title="FILME TV FAX B HISTORIA REAL",SEM EVIDÊ NCIAS Drama Baseado Em Fatos Reais
 https://ia902706.us.archive.org/27/items/sem-evide-ncias-drama-baseado-em-fatos-reais-tv-fax/SEM%20EVID%C3%8ANCIAS%20Drama%20Baseado%20em%20fatos%20reais%20TV%20FAX%20.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Paulo Apostolo De Cristo"tvg-logo="https://m.media-amazon.com/images/I/61CUYw3LANL._AC_UF894,1000_QL80_.jpg"group-title="FILME TV FAX B HISTORIA REAL",Paulo Apostolo De Cristo
 https://ia802707.us.archive.org/34/items/paulo-apostolo-de-cristo-tv-fax/Paulo%20Apostolo%20de%20Cristo%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",O Poder Do Perdão "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Jm5Gone2bLL3NSl7D8PRQvpcRuBpKcCNn8wLs7cfFP-WHmfCZuMx2_dkz1HtWrT3orc&usqp=CAU"group-title="FILME TV FAX B HISTORIA REAL",O Poder Do Perdão 
@@ -4814,61 +4819,6 @@ https://play.prod.gcp.vix.services/jaspion_jp/jaspion_jp_1-1/play_v1_hls_1080p.m
 #EXTINF:-1 tvg-id="" tvg-name="jiraiya"tvg-logo="https://thumbs.gfycat.com/AlivePeriodicFrog-small.gif" group-title="FILMES TV FAX | AÇÃO CINEMA",jiraiya
 https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg="http://grade-de-SERIE TV FAX O Bom Doutor.xml"
-############## SERIE TV FAX O Bom Doutor ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSERIE TV FAX O Bom Doutor" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E01"tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/9b/2019/08/28/a-serie-the-good-doctor-1567028021231_v2_900x506.png"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E01
-https://ia902703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E02"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E02
-https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E03"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E03
-https://ia902703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E04"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E04
-https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E05"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E05
-https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E06"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E06
-https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E07"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E07
-https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E08"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E08
-https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E09"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E09
-https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E10"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E10
-https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E11"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E11
-https://ia902703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E12"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E12
-https://ia902703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E13"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E13
-https://ia902703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2013.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E14"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E14
-https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E15"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E15
-https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2015.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E16"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E16
-https://ia902703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2016.mp4
-
-#EXTM3U url-tvg="http://grade-de-SERIE TV FAX As Canções da Minha Vida.xml"
-############## SERIE TV FAX As Canções da Minha Vida ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSERIE TV FAX As Canções da Minha Vida" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Maria Gadú S01E01"tvg-logo="https://agendadorecife.com.br/files/wp-content/uploads/2011/08/maria-gad%C3%BA.jpg"group-title="SERIE TV FAX As Canções da Minha Vida",Maria Gadú S01E01
-https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Daniel S01E02"tvg-logo="https://yt3.googleusercontent.com/FX3lZkzflsQ2kBxn0C094S63D6Eru7wpfBAHw998UyN_C76D2_0yWXEysef4xtfF6VCSyV3Nuxk=s900-c-k-c0x00ffffff-no-rj"group-title="SERIE TV FAX As Canções da Minha Vida",Daniel S01E02
-https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-2/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAULINHO MOSKA S01E03"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3hhxExReu53T7bxoUNJBngAYWGO1-n2oM9hHrwtxoxZgj5OBx-fsAvgJOpR30cDNis8I&usqp=CAU"group-title="SERIE TV FAX As Canções da Minha Vida",PAULINHO MOSKA S01E03
-https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-3/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teresa Cristina S01E04"tvg-logo="https://agendadorecife.com.br/files/wp-content/uploads/2011/08/maria-gad%C3%BA.jpg"group-title="SERIE TV FAX As Canções da Minha Vida",Teresa Cristina S01E04
-https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-4/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Di Ferrero S01E05"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7BngMTVzkrhTI_SOikiiaFI4fP5WOHVuCri9y1Bn4YHa1RE8bqi-AVMFAUZRHFYgqQWE&usqp=CAU"group-title="SERIE TV FAX As Canções da Minha Vida",Di Ferrero S01E05
-https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-5/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Odair José S01E06"tvg-logo="https://amusicade.com/wp-content/uploads/2021/07/odair.jpg"group-title="SERIE TV FAX As Canções da Minha Vida",Odair José S01E06
-https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-11/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leo Jaime S01E07"tvg-logo="https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/06/11085623/WhatsApp-Image-2023-06-11-at-00.03.17.jpeg"group-title="SERIE TV FAX As Canções da Minha Vida",Leo Jaime S01E07
-https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-13/play_v1_hls_1080p.m3u8
 
 #EXTM3U url-tvg="http://grade-de-FILMES TV FAX GOSPEL.xml"
 ############## FILMES TV FAX GOSPEL ################# 
@@ -4946,7 +4896,6 @@ http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776149.mp4
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776150.mp4
 #EXTINF:-1 tvg-name="The Girl Who Escaped: The Kara Robinson Story [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg" group-title="Filmes | Lançamentos 2023",The Girl Who Escaped: The Kara Robinson Story [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138776191.mp4
-
 #EXTINF:-1 tvg-name="Lollapalooza Brasil 2023 (2023)" tvg-logo="https://i.ibb.co/VxgYbL5/20230308145041-20221103175855-20220804130610-lolla-1-1.jpg" group-title="Filmes | Lançamentos 2023",Lollapalooza Brasil 2023 (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775483.mp4
 #EXTINF:-1 tvg-name="The Paramedic Who Stalked Me [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5o0Df9u4wboUCPgXTZpdNko92G.jpg" group-title="Filmes | Lançamentos 2023",The Paramedic Who Stalked Me [CINEMA] (2023)
@@ -4971,12 +4920,10 @@ http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775024.mp4
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775027.mp4
 #EXTINF:-1 tvg-name="Les Choses simples [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm4D555GnwAuOQHipk7ENHUcXAi.jpg" group-title="Filmes | Lançamentos 2023",Les Choses simples [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775167.mp4
-
 #EXTINF:-1 tvg-name="Hunt Her, Kill Her [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p06MGXRHJhbFkMu3ey2mGxqWtfU.jpg" group-title="Filmes | Lançamentos 2023",Hunt Her, Kill Her [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775169.mp4
 #EXTINF:-1 tvg-name="Black Girl Missing [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4UE6GTjuinT4zDrBxSFRo0wbjt.jpg" group-title="Filmes | Lançamentos 2023",Black Girl Missing [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775171.mp4
-
 #EXTINF:-1 tvg-name="Ursinho Pooh: Sangue e Mel [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCdzPK6fJgQL0FeKeYkciZzjyOL.jpg" group-title="Filmes | Lançamentos 2023",Ursinho Pooh: Sangue e Mel [CINEMA] (2023)
 http://uione.dadg.today:80/movie/Rickbsb/D7G8h0978HT/138775174.mp4
 #EXTINF:-1 tvg-name="O Convento [CINEMA] (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQTRmPzKAdLodknnPVtImm6FWPZ.jpg" group-title="Filmes | Lançamentos 2023",O Convento [CINEMA] (2023)
@@ -5600,6 +5547,17 @@ http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24641.mp4
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202368.mp4
 #EXTINF:-1 tvg-id="" tvg-name="10.000 A.C. - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS9WxbISOCzucj7484IohnrBr5b.jpg" group-title="Filmes: Aventura",10.000 A.C. - 2008
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/162914.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES NECROPSIA TV FAX.xml"
+############## FILMES NECROPSIA TV FAX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES NECROPSIA TV FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="O Cadáver De Anna Fritz" tvg-logo="https://64.media.tumblr.com/c7f7022432911fe80803ae22c0253f1c/tumblr_o3cr34oWEA1twsr72o1_540.gif" group-title="FILMES NECROPSIA TV FAX",O Cadáver De Anna Fritz
+https://ia601709.us.archive.org/23/items/o-cadaver-de-anna-fritz-tv-fax/O%20Cad%C3%A1ver%20De%20Anna%20Fritz%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Autópsia" tvg-logo="https://thumbs.gfycat.com/AncientAccurateDeinonychus-max-1mb.gif" group-title="FILMES NECROPSIA TV FAX",Autópsia
+https://ia802905.us.archive.org/4/items/autopsia-filme-completo-tv-fax/Aut%C3%B3psia%20Filme%20Completo%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Autópsia FILME" tvg-logo="https://thumbs.gfycat.com/AncientAccurateDeinonychus-max-1mb.gif" group-title="FILMES NECROPSIA TV FAX",Autópsia FILME
+https://ia600507.us.archive.org/27/items/auto-psia-filme-tv-fax/AUT%C3%93PSIA%20FILME%20TV%20FAX%20.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes Terror.xml"
 ############## Filmes Terror ################# 
@@ -6939,6 +6897,63 @@ https://play.prod.gcp.vix.services/old-machine_pt/old-machine_pt_1-1/play_v1_hls
 https://play.prod.gcp.vix.services/beautifully-broken_pt/beautifully-broken_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  Em Busca de um Milagre"tvg-logo="https://i.ytimg.com/vi/flPm14tMhoc/maxresdefault.jpg" group-title="FÉ | ESPIRITUAIS",Em Busca de um Milagre
 https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls_1080p.m3u8
+
+#EXTM3U url-tvg="http://grade-de-SERIE TV FAX O Bom Doutor.xml"
+############## SERIE TV FAX O Bom Doutor ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSERIE TV FAX O Bom Doutor" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E01"tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/9b/2019/08/28/a-serie-the-good-doctor-1567028021231_v2_900x506.png"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E01
+https://ia902703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E02"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E02
+https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E03"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E03
+https://ia902703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E04"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E04
+https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E05"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E05
+https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E06"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E06
+https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E07"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E07
+https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E08"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E08
+https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E09"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E09
+https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E10"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E10
+https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E11"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E11
+https://ia902703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E12"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E12
+https://ia902703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E13"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E13
+https://ia902703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E14"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E14
+https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E15"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E15
+https://ia802703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Doutor The Good Doctor S01E16"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="SERIE TV FAX O Bom Doutor",O Bom Doutor The Good Doctor S01E16
+https://ia902703.us.archive.org/34/items/assistir-the-good-doctor-o-bom-doutor-1-temporada-episodio-1x16/Assistir%20The%20Good%20Doctor%20O%20Bom%20Doutor%201%20Temporada%20Episodio%2016.mp4
+
+#EXTM3U url-tvg="http://grade-de-SERIE TV FAX As Canções da Minha Vida.xml"
+############## SERIE TV FAX As Canções da Minha Vida ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSERIE TV FAX As Canções da Minha Vida" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Maria Gadú S01E01"tvg-logo="https://agendadorecife.com.br/files/wp-content/uploads/2011/08/maria-gad%C3%BA.jpg"group-title="SERIE TV FAX As Canções da Minha Vida",Maria Gadú S01E01
+https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Daniel S01E02"tvg-logo="https://yt3.googleusercontent.com/FX3lZkzflsQ2kBxn0C094S63D6Eru7wpfBAHw998UyN_C76D2_0yWXEysef4xtfF6VCSyV3Nuxk=s900-c-k-c0x00ffffff-no-rj"group-title="SERIE TV FAX As Canções da Minha Vida",Daniel S01E02
+https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-2/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAULINHO MOSKA S01E03"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3hhxExReu53T7bxoUNJBngAYWGO1-n2oM9hHrwtxoxZgj5OBx-fsAvgJOpR30cDNis8I&usqp=CAU"group-title="SERIE TV FAX As Canções da Minha Vida",PAULINHO MOSKA S01E03
+https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-3/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teresa Cristina S01E04"tvg-logo="https://agendadorecife.com.br/files/wp-content/uploads/2011/08/maria-gad%C3%BA.jpg"group-title="SERIE TV FAX As Canções da Minha Vida",Teresa Cristina S01E04
+https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-4/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Di Ferrero S01E05"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7BngMTVzkrhTI_SOikiiaFI4fP5WOHVuCri9y1Bn4YHa1RE8bqi-AVMFAUZRHFYgqQWE&usqp=CAU"group-title="SERIE TV FAX As Canções da Minha Vida",Di Ferrero S01E05
+https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-5/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Odair José S01E06"tvg-logo="https://amusicade.com/wp-content/uploads/2021/07/odair.jpg"group-title="SERIE TV FAX As Canções da Minha Vida",Odair José S01E06
+https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-11/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Leo Jaime S01E07"tvg-logo="https://cm7.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/06/11085623/WhatsApp-Image-2023-06-11-at-00.03.17.jpeg"group-title="SERIE TV FAX As Canções da Minha Vida",Leo Jaime S01E07
+https://play.prod.gcp.vix.services/cancoes-minha-vida_pt/cancoes-minha-vida_pt_1-13/play_v1_hls_1080p.m3u8
+
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | WANDINHA.xml"
 ############## SÉRIES | WANDINHA ################# 
@@ -14640,36 +14655,38 @@ https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/m
  ############## traduao ################ # 
 #EXTINF:-1 tvg-id=" iddocanaldetraduao  " group-title="
 
-#EXTINF:-1 tvg-id="BERLIN TRADUÇAO ALEX SILVA" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",BERLIN TRADUÇAO ALEX SILVA
-https://ia902702.us.archive.org/19/items/alex-silva-berlin-traduc-ao-alex-silva/Alex%20Silva%20-%20BERLIN%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
-#EXTINF:-1 tvg-id="I should have known better" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",I should have known better
-https://ia802701.us.archive.org/10/items/alex-silva-i-should-have-known-better-traduc-ao-alex-silva/Alex%20Silva%20-%20I%20should%20have%20known%20better%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
-#EXTINF:-1 tvg-id="Chicago - Hard To Say I'm Sorry " tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Chicago - Hard To Say I'm Sorry 
-https://ia802702.us.archive.org/9/items/alex-silva-chicago-hard-to-say-im-sorry-traduc-ao-alex-silva/Alex%20Silva%20-%20Chicago%20-%20Hard%20To%20Say%20I%27m%20Sorry%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
-#EXTINF:-1 tvg-id="Roxette Spending My Time PERDENDO MEU TEMPO" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Roxette Spending My Time PERDENDO MEU TEMPO
-https://ia902707.us.archive.org/19/items/alex-silva-roxette-spending-my-time-perdendo-meu-tempo-traduc-ao-alex-silva/Alex%20Silva%20-%20Roxette%20Spending%20My%20Time%20PERDENDO%20MEU%20TEMPO%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
-#EXTINF:-1 tvg-id="We Are The World " tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",We Are The World 
-https://ia902704.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva/Alex%20Silva%20-%20We%20Are%20The%20World%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
-#EXTINF:-1 tvg-id="Please Don´t Go - KC & The Sunshine Band" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Please Don´t Go - KC & The Sunshine Band
-https://ia601600.us.archive.org/20/items/alex-silva-please-dont-go-kc-the-sunshine-band-traduc-ao-alex-silva/Alex%20Silva%20-%20Please%20Don%C2%B4t%20Go%20-%20KC%20%26%20The%20Sunshine%20Band%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
-#EXTINF:-1 tvg-id="BRAY ADAMS HEVEM " tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",BRAY ADAMS HEVEM 
-https://ia802703.us.archive.org/33/items/alex-silva-bray-adams-hevem-traduc-ao-alex-silva/Alex%20Silva%20-%20BRAY%20ADAMS%20HEVEM%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
-#EXTINF:-1 tvg-id="Please Forgive Me PERDOE" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j" group-title="traduçao",Please Forgive Me PERDOE
-https://ia601600.us.archive.org/19/items/alex-silva-please-forgive-me-perdoe-traduc-ao-alex-silva/Alex%20Silva%20-%20Please%20Forgive%20Me%20PERDOE%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
-#EXTINF:-1 tvg-id="Rem Everybody Hurts" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Rem Everybody Hurts
-https://ia802702.us.archive.org/21/items/alex-silva-rem-everybody-hurts-traducao-alex-silva/Alex%20Silva%20-%20Rem%20-%20Everybody%20Hurts%20%28tradu%C3%A7ao%20Alex%20Silva.ia.mp4
-#EXTINF:-1 tvg-id="Peter Cetera - The Glory Of Love (Gloria do Amor)" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Peter Cetera - The Glory Of Love (Gloria do Amor)
-https://ia902604.us.archive.org/28/items/alex-silva-peter-cetera-the-glory-of-love-gloria-do-amor-traduc-ao-alex-silva/Alex%20Silva%20-%20Peter%20Cetera%20-%20The%20Glory%20Of%20Love%20%28Gloria%20do%20Amor%29TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
-#EXTINF:-1 tvg-id="Nothing Love Out Of Nothing At All Air Suply" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Nothing Love Out Of Nothing At All Air Suply
-https://ia802606.us.archive.org/35/items/alex-silva-nothing-love-out-of-nothing-at-all-air-suply-traduc-ao-alex-silva/Alex%20Silva%20-%20Nothing%20Love%20Out%20Of%20Nothing%20At%20All%20Air%20Suply%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
-#EXTINF:-1 tvg-id="Richard Marx - Right Here Waiting" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Richard Marx - Right Here Waiting 
-https://ia802705.us.archive.org/4/items/alex-silva-richard-marx-right-here-waiting-traduc-ao-alex-silva/Alex%20Silva%20-%20Richard%20Marx%20-%20Right%20Here%20Waiting%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
-#EXTINF:-1 tvg-id="Dire Straits So FAR Away" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Dire Straits So FAR Away
-https://ia802602.us.archive.org/22/items/alex-silva-dire-straits-so-far-away-traducao-alex-silva/Alex%20Silva%20-%20Dire%20Straits%20So%20FAR%20Away-%20Tradu%C3%A7ao%20Alex%20Silva.ia.mp4
-#EXTINF:-1 tvg-id="Tim Moore - Yes Aprecie a vida" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Tim Moore - Yes Aprecie a vida
+#EXTINF:-1 tvg-name="Berlin Take My Breath Away TRADUÇAO ALEX SILVA" tvg-logo="https://4.bp.blogspot.com/-WoQiRhryXYA/XLeHkcL54hI/AAAAAAAARjM/t-1j0CVhYdsd7GiL9JIC5Z6LOqByiEyUwCLcBGAs/s1600/Take2.jpg" group-title="traduçao",Berlin Take My Breath Away TRADUÇAO ALEX SILVA
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20BERLIN%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
+#EXTINF:-1 tvg-name="Alex Silva - BRAY ADAMS HEVEM TRADUÇAO ALEX SILVA" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTdmMTgzN2YtZGU0OC00Y2RhLTkzYmMtN2RjNjc5MDk5MGU0XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_FMjpg_UX1000_.jpg" group-title="traduçao",Alex Silva - BRAY ADAMS HEVEM TRADUÇAO ALEX SILVA
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20BRAY%20ADAMS%20HEVEM%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
+#EXTINF:-1 tvg-name="Alex Silva - Aprecie a vida Traduçao Kool & The Gang - Cherish" tvg-logo="https://i.discogs.com/xDV-qUcy2fXS5pLRkUMq3iC3AvnGv2rWJdMOSMi10mw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDE4/MTE3LTE1MjcwMjQ4/ODYtNDMzMy5qcGVn.jpeg"group-title="traduçao",Alex Silva - Aprecie a vida Traduçao Kool & The Gang - Cherish
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20Aprecie%20a%20vida%20Tradu%C3%A7ao%20Kool%20%26%20The%20Gang%20-%20Cherish.ia.mp4
+#EXTINF:-1 tvg-name="Chicago - Hard To Say I'm Sorry " tvg-logo="https://i1.sndcdn.com/artworks-DfnmQQOS2CzA-0-t500x500.jpg"group-title="traduçao",Chicago - Hard To Say I'm Sorry 
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20Chicago%20-%20Hard%20To%20Say%20I%27m%20Sorry%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
+#EXTINF:-1 tvg-name="Dire Straits So FAR Away" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1O8UgX2OAa8luWEUp3FYnqHatFIBb9ZwBhezkde48A2InFWTB__0jRtzRZgLFIV4zS6Q&usqp=CAU"group-title="traduçao",Dire Straits So FAR Away
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20Dire%20Straits%20So%20FAR%20Away-%20Tradu%C3%A7ao%20Alex%20Silva.ia.mp4
+#EXTINF:-1 tvg-name="I should have known better" tvg-logo="https://m.media-amazon.com/images/I/41j06CL7zlL._UF1000,1000_QL80_.jpg"group-title="traduçao",I should have known better
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20I%20should%20have%20known%20better%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
+#EXTINF:-1 tvg-name="Nothing Love Out Of Nothing At All Air Suply" tvg-logo="https://i.scdn.co/image/ab67616d0000b2733a9106f940fb04bc98a2b95e"group-title="traduçao",Nothing Love Out Of Nothing At All Air Suply
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20Nothing%20Love%20Out%20Of%20Nothing%20At%20All%20Air%20Suply%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
+#EXTINF:-1 tvg-name="Peter Cetera - The Glory Of Love (Gloria do Amor)" tvg-logo="https://i.ytimg.com/vi/OzgDfmZ99GY/mqdefault.jpg"group-title="traduçao",Peter Cetera - The Glory Of Love (Gloria do Amor)
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20Peter%20Cetera%20-%20The%20Glory%20Of%20Love%20%28Gloria%20do%20Amor%29TRADU%C3%87AO%20ALEX%20SILVA.mp4
+#EXTINF:-1 tvg-name="Please Don´t Go - KC & The Sunshine Band" tvg-logo="https://i.ytimg.com/vi/w-l5FyA3pgo/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgUyhOMA8=&rs=AOn4CLCH3yd_8Y4juJP1TNJQq-f3N8LLhg"group-title="traduçao",Please Don´t Go - KC & The Sunshine Band
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20Please%20Don%C2%B4t%20Go%20-%20KC%20%26%20The%20Sunshine%20Band%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+#EXTINF:-1 tvg-name="Please Forgive Me PERDOE" tvg-logo="https://i.ytimg.com/vi/wOenY0DsUTY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDZNNkI2gOEV60SKGr5OzRaCUJYTg" group-title="traduçao",Please Forgive Me PERDOE
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20Please%20Forgive%20Me%20PERDOE%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
+#EXTINF:-1 tvg-name="London London rpm" tvg-logo="https://igormiranda.com.br/wp-content/uploads/2023/03/rpm-2023-banda.jpg"group-title="traduçao",London London rpm
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20RPM%20-%20London%20London%20%28TRADUZIDO%20POR%20ALEX%20SILVA%29.ia.mp4
+#EXTINF:-1 tvg-name="Rem Everybody Hurts" tvg-logo="https://i.ytimg.com/vi/mS9YuGWmcs0/maxresdefault.jpg"group-title="traduçao",Rem Everybody Hurts
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20Rem%20-%20Everybody%20Hurts%20%28tradu%C3%A7ao%20Alex%20Silva.mp4
+#EXTINF:-1 tvg-name="Richard Marx - Right Here Waiting " tvg-logo="https://i.ytimg.com/vi/lyGQD1cH4xI/maxresdefault.jpg"group-title="traduçao",Richard Marx - Right Here Waiting 
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20Richard%20Marx%20-%20Right%20Here%20Waiting%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+#EXTINF:-1 tvg-name="Roxette Spending My Time PERDENDO MEU TEMPO" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Roxette Spending My Time PERDENDO MEU TEMPO
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20Roxette%20Spending%20My%20Time%20PERDENDO%20MEU%20TEMPO%20TRADU%C3%87AO%20ALEX%20SILVA.ia.mp4
+#EXTINF:-1 tvg-name="We Are The World " tvg-logo="https://media.imguol.com/2014/11/22/we-are-the-world-1416669038721_615x300.jpg"group-title="traduçao",We Are The World 
+https://ia904603.us.archive.org/22/items/alex-silva-we-are-the-world-traduc-ao-alex-silva_202308/Alex%20Silva%20-%20We%20Are%20The%20World%20TRADU%C3%87AO%20ALEX%20SILVA.mp4
+#EXTINF:-1 tvg-name="Tim Moore - Yes Aprecie a vida" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",Tim Moore - Yes Aprecie a vida
 https://ia802603.us.archive.org/11/items/tim-moore-yes-traducao/Tim%20Moore%20-%20Yes%20%28tradu%C3%A7%C3%A3o%29%20.ia.mp4
-#EXTINF:-1 tvg-id="London London" tvg-name="Prime Esportes 3 SD" tvg-logo="https://photos.google.com/album/AF1QipM00EXPAuSEDW1IF_O5rUzHf7pQRNsF0QcmxUhC/photo/AF1QipNZxS_R-kQ6V8FSajD8__1Rs5WRu6z0YXjVkg0j"group-title="traduçao",London London
-https://ia902603.us.archive.org/24/items/alex-silva-rpm-london-london-traduzido-por-alex-silva/Alex%20Silva%20-%20RPM%20-%20London%20London%20%28TRADUZIDO%20POR%20ALEX%20SILVA%29.ia.mp4
 
 #EXTM3U url-tvg="http://grade-de-FAX | CLIPS AO VIVO.xml"
 ############## FAX | CLIPS AO VIVO  ################# 
